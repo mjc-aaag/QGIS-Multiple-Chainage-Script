@@ -1,4 +1,4 @@
-Asset ID,Road ID,Road Name,Road Authority,Rural/Urban,Road Classification,Road Priority,status,start,end,Locality,length_m,width_m,Area (m2),Condition Ratings,Year of Construction,Comment,OBJECTID (GIS),Road Number (GIS),Asset ID  (GIS),gis_status
+Asset ID,Road ID,road_name,road_autho,rural_urban,road_class,road_prio,status,start,end,suburb,length_m,width_m,Area (m2),condition,year_const,comment,OBJECTID,road_number,gis_asset_id,gis_status
 23,9693,Atherton Drive 01,Crown,Urban,Local,79,Sealed,0,160,Urunga,160,6.7,1072,1,#N/A,,22,9693,100027,Mutiple Chainage
 23,9693,Atherton Drive 02,Crown,Urban,Local,79,Sealed,160,900,Urunga,740,6.5,4810,1,#N/A,,22,9693,100027,Mutiple Chainage
 23,9693,Atherton Drive 03,Crown,Urban,Local,79,Sealed,900,1050,Urunga,150,7.3,1095,4,#N/A,,22,9693,100027,Mutiple Chainage

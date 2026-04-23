@@ -1,3 +1,0 @@
-Asset ID,Road ID,road_name,road_autho,rural_urban,road_class,road_prio,status,start,end,suburb,length_m,width_m,Area (m2),condition,year_const,comment,OBJECTID,road_number,gis_asset_id,gis_status
-108,9988,Vine Street,BSC,Urban,Local,12,Sealed,0,165,Dorrigo,165,4.4,726,3,1987,,535,9988,100340,Mutiple Chainage
-108,9988,Vine Street,BSC,Urban,Regional,12,Sealed,165,773.1478385,Dorrigo,608.1478385,6.3,3831.331383,2,1987,,535,9988,100340,Mutiple Chainage

@@ -1,0 +1,30 @@
+# Shapefile components
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.fbn
+*.fbx
+*.ain
+*.aih
+*.atx
+*.ixs
+*.mxs
+*.xml
+*.qpj
+
+# GeoPackage
+*.gpkg
+
+# Output folder
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env

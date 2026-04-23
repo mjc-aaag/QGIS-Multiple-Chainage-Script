@@ -1,0 +1,905 @@
+Asset ID,Road ID,Road Name,Road Authority,Rural/Urban,Road Classification,Road Priority,status,start,end,Locality,length_m,width_m,Area (m2),Condition Ratings,Year of Construction,Comment,OBJECTID (GIS),Road Number (GIS),Asset ID  (GIS),gis_status
+23,9693,Atherton Drive 01,Crown,Urban,Local,79,Sealed,0,160,Urunga,160,6.7,1072,1,#N/A,,22,9693,100027,Mutiple Chainage
+23,9693,Atherton Drive 02,Crown,Urban,Local,79,Sealed,160,900,Urunga,740,6.5,4810,1,#N/A,,22,9693,100027,Mutiple Chainage
+23,9693,Atherton Drive 03,Crown,Urban,Local,79,Sealed,900,1050,Urunga,150,7.3,1095,4,#N/A,,22,9693,100027,Mutiple Chainage
+23,9693,Atherton Drive 04,Crown,Urban,Local,79,Sealed,1050,1274.709477,Urunga,224.7094768,7.3,1640.379181,2,#N/A,,22,9693,100027,Mutiple Chainage
+44,9698,Bailey Street 01,BSC,Urban,Local,92,Sealed,0,260,Repton,260,6,1560,3,2019,,24,9698,100029,Mutiple Chainage
+44,9698,Bailey Street 02,BSC,Urban,Local,92,Sealed,260,302.6966349,Repton,42.69663486,6,256.1798092,1,2019,,24,9698,100029,Mutiple Chainage
+73,9699,Baker Street 01,BSC,Urban,Local,105,Sealed,0,300,Fernmount,300,4.8,1440,4,2014,,25,9699,100030,Mutiple Chainage
+73,9699,Baker Street 02,BSC,Urban,Local,105,Sealed,300,350,Fernmount,50,4.8,240,3,2014,,25,9699,100030,Mutiple Chainage
+73,9699,Baker Street 03,BSC,Urban,Local,105,Sealed,350,375.0572482,Fernmount,25.05724816,4.8,120.2747912,3,2014,,25,9699,100030,Mutiple Chainage
+317,10087,Balcomb Lane 01,BSC,Urban,Local,105,Sealed,0,60,Bellingen,60,3,180,3,2008,,274,10087,100369,Mutiple Chainage
+317,10087,Balcomb Lane 02,BSC,Urban,Local,105,Unsealed,60,90,Bellingen,30,3,90,3,2008,,274,10087,100369,Mutiple Chainage
+317,10087,Balcomb Lane 03,BSC,Urban,Local,105,Sealed,90,139.508954,Bellingen,49.50895398,3,148.5268619,3,2008,,274,10087,100369,Mutiple Chainage
+34,9700,Ballards Road 01,BSC,Rural,Local,91,Sealed,0,c,Valla,360,3.6,1296,1,2016,,423,9700,100031,Mutiple Chainage
+34,9700,Ballards Road 02,BSC,Rural,Local,91,Sealed,360,870,Valla,510,3.6,1836,3,2016,,423,9700,100031,Mutiple Chainage
+34,9700,Ballards Road 03,BSC,Rural,Local,91,Unsealed,870,2934.441456,Valla,2064.441456,3.6,7431.989241,2,2016,,423,9700,100031,Mutiple Chainage
+244,9707,Beaumonts Road 01,BSC,Rural,Local,100,Sealed,0,1220,Deer Vale,1220,3.7,4514,2,2009,,32,9707,100038,Mutiple Chainage
+244,9707,Beaumonts Road 02,BSC,Rural,Local,100,Unsealed,1220,2486.462671,Deer Vale,1266.462671,3.7,4685.911881,2,2016,,32,9707,100038,Mutiple Chainage
+217,9710,Bellingen Street 01,BSC,Urban,Local,22,Sealed,0,270,Urunga,270,9.4,2538,2,1985,,35,9710,100041,Mutiple Chainage
+217,9710,Bellingen Street 02,BSC,Urban,Local,22,Sealed,270,420,Urunga,150,9.7,1455,1,1996,,35,9710,100041,Mutiple Chainage
+217,9710,Bellingen Street 03,BSC,Urban,Local,22,Sealed,420,1265.944579,Urunga,845.9445785,9.1,7698.095664,1,2009,,35,9710,100041,Mutiple Chainage
+426,9711,Bennetts Road 01,BSC,Rural,Local,121,Sealed,0,770,Bielsdown Hills,770,3,2310,2,1985,,424,9711,100042,Mutiple Chainage
+426,9711,Bennetts Road 02,BSC,Rural,Local,121,Unsealed,770,1562.746122,Bielsdown Hills,792.7461223,3,2378.238367,2,2012,,424,9711,100042,Mutiple Chainage
+431,9714,Billings Road 01,BSC,Rural,Local,115,Sealed,0,160,Dorrigo,160,3,480,1,2004,,425,9714,100046,Mutiple Chainage
+431,9714,Billings Road 02,BSC,Rural,Local,115,Unsealed,160,2892.170093,Dorrigo,2732.170093,3,8196.51028,1,2004,,425,9714,100046,Mutiple Chainage
+223,9720,Bonville Street 01,BSC,Urban,Local,44,Sealed,0,110,Urunga,110,10.7,1177,1,1985,,40,9720,100052,Mutiple Chainage
+223,9720,Bonville Street 02,BSC,Urban,Local,44,Sealed,110,677.725713,Urunga,567.725713,9.8,5563.711987,2,1974,,40,9720,100052,Mutiple Chainage
+359,9724,Bowra Street 01,BSC,Urban,Local,19,Sealed,0,30,Urunga,30,7.8,234,2,1968,,43,9724,100056,Mutiple Chainage
+359,9724,Bowra Street 02,BSC,Urban,Local,19,Sealed,30,130,Urunga,100,12.7,1270,1,1968,,43,9724,100056,Mutiple Chainage
+359,9724,Bowra Street 03,BSC,Urban,Local,19,Sealed,130,347.047468,Urunga,217.047468,7.8,1692.97025,1,1974,,43,9724,100056,Mutiple Chainage
+156,9725,Bowraville Road 01,BSC,Rural,Local,16,Sealed,0,810,Bellingen,810,5.8,4698,3,1976,,429,9725,100057,Mutiple Chainage
+156,9725,Bowraville Road 02,BSC,Rural,Local,16,Sealed,810,1180,Bellingen,370,6.5,2405,1,1985,,429,9725,100057,Mutiple Chainage
+156,9725,Bowraville Road 03,BSC,Rural,Local,16,Sealed,1180,4670,Bellingen,3490,5.6,19544,1,1996,,429,9725,100057,Mutiple Chainage
+156,9725,Bowraville Road 04,BSC,Rural,Local,16,Sealed,4670,6490,Bellingen,1820,5.6,10192,1,1974,,429,9725,100057,Mutiple Chainage
+156,9725,Bowraville Road 05,BSC,Rural,Local,16,Sealed,6490,7790,Bellingen,1300,5.6,7280,1,1985,,429,9725,100057,Mutiple Chainage
+156,9725,Bowraville Road 06,BSC,Rural,Local,16,Sealed,7790,9530,Bellingen,1740,5.5,9570,1,1996,,429,9725,100057,Mutiple Chainage
+156,9725,Bowraville Road 07,BSC,Rural,Local,16,Sealed,9530,10830,Bellingen,1300,5.5,7150,1,1996,,429,9725,100057,Mutiple Chainage
+156,9725,Bowraville Road 08,BSC,Rural,Local,16,Sealed,10830,11380,Bellingen,550,5.5,3025,1,2014,,429,9725,100057,Mutiple Chainage
+156,9725,Bowraville Road 09,BSC,Rural,Local,16,Unsealed,11380,14847.81364,Bellingen,3467.813642,4.6,15951.94275,4,2001,,429,9725,100057,Mutiple Chainage
+274,9726,Braithwaite Avenue 01,BSC,Urban,Local,101,Sealed,0,220,Bellingen,220,8.2,1804,3,1974,,44,9726,100058,Mutiple Chainage
+274,9726,Braithwaite Avenue 02,BSC,Urban,Local,101,Sealed,220,295.1608982,Bellingen,75.16089818,4.8,360.7723113,1,1974,,44,9726,100058,Mutiple Chainage
+394,9727,Breakwells Road 01,BSC,Rural,Local,121,Sealed,0,740,Megan,740,4,2960,2,1976,,430,9727,100059,Mutiple Chainage
+394,9727,Breakwells Road 02,BSC,Rural,Local,121,Sealed,740,1576.40627,Megan,836.4062696,4,3345.625078,2,1976,,430,9727,100059,Mutiple Chainage
+436,9729,Briggsvale Road 01,BSC,Rural,Local,77,Sealed,0,720,Megan,720,3,2160,3,1976,,45,9729,100061,Mutiple Chainage
+436,9729,Briggsvale Road 02,BSC,Rural,Local,77,Unsealed,720,2261.970192,Megan,1541.970192,3,4625.910575,3,1976,,45,9729,100061,Mutiple Chainage
+440,9734,Cabans Road 01,BSC,Rural,Local,117,Sealed,0,20,Raleigh,20,3,60,3,2012,,433,9734,100065,Mutiple Chainage
+440,9734,Cabans Road 02,BSC,Rural,Local,117,Unsealed,20,600,Raleigh,580,3,1740,4,2012,,433,9734,100065,Mutiple Chainage
+440,9734,Cabans Road 03,BSC,Rural,Local,117,Sealed,600,860,Raleigh,260,3,780,4,2012,,433,9734,100065,Mutiple Chainage
+440,9734,Cabans Road 04,BSC,Rural,Local,117,Unsealed,860,1302.520411,Raleigh,442.5204106,3,1327.561232,4,2012,,433,9734,100065,Mutiple Chainage
+457,9738,Casuarina Avenue,BSC,Urban,Local,92,Sealed,0,395.5228708,Bellingen,395.5228708,6,2373.137225,3,1968,,51,9738,100069,Mutiple Chainage
+1370,9738,Casuarina Avenue - 01,BSC,Urban,Local,92,Sealed,0,67.12791577,Bellingen,67.12791577,8,537.0233261,3,1985,,51,9738,100069,Mutiple Chainage
+476,9739,Casuarina Street,BSC,Urban,Local,95,Sealed,0,392.3320906,Dorrigo,392.3320906,3,1176.996272,2,1968,,53,9739,100071,Mutiple Chainage
+477,9739,Casuarina Street - 01,BSC,Urban,Local,95,Sealed,0,84.32353707,Dorrigo,84.32353707,7.2,607.1294669,2,1968,,53,9739,100071,Mutiple Chainage
+2557,9741,Cedar Street 01,BSC,Urban,Local,65,Sealed,0,110,Dorrigo,110,4.8,528,2,1968,,392,9741,100510,Mutiple Chainage
+2557,9741,Cedar Street 02,BSC,Urban,Local,65,Sealed,110,240,Dorrigo,130,5.8,754,2,1968,,392,9741,100510,Mutiple Chainage
+2557,9741,Cedar Street 03,BSC,Urban,Local,65,Sealed,240,522.2,Dorrigo,282.2,6,1693.2,1,1996,,392,9741,100510,Mutiple Chainage
+319,9744,Church Street - 01,BSC,Urban,Local,6,Sealed,0,65.44709732,Bellingen,65.44709732,4,261.7883893,1,1987,,58,9744,100076,Mutiple Chainage
+113,9744,Church Street - Collector 01,BSC,Urban,Local,6,Sealed,0,60,Bellingen,60,11.4,684,1,1996,,58,9744,100076,Mutiple Chainage
+113,9744,Church Street - Collector 02,BSC,Urban,Local,6,Sealed,60,559.6704117,Bellingen,499.6704117,11.4,5696.242693,1,1996,,58,9744,100076,Mutiple Chainage
+157,9744,Church Street - Local,BSC,Urban,Local,6,Sealed,0,92.64343851,Bellingen,92.64343851,17.3,1602.731486,1,1981,,58,9744,100076,Mutiple Chainage
+358,9748,Comlaroi Street 01,BSC,Urban,Local,85,Sealed,0,80,Urunga,80,9,720,1,1976,,61,9748,100081,Mutiple Chainage
+358,9748,Comlaroi Street 02,BSC,Urban,Local,85,Sealed,80,208.5893111,Urunga,128.5893111,3.5,450.0625889,1,1968,,61,9748,100081,Mutiple Chainage
+357,9750,Coopers Lane 01,BSC,Urban,Local,97,Sealed,0,230,Urunga,230,3,690,2,1974,,63,9750,100083,Mutiple Chainage
+357,9750,Coopers Lane 02,BSC,Urban,Local,97,Sealed,230,344.7211758,Urunga,114.7211758,3.3,378.5798803,1,1968,,63,9750,100083,Mutiple Chainage
+189,9751,Coramba Road 01,BSC,Rural,Regional,2,Sealed,0,1200,Dorrigo,1200,5.5,6600,2,1987,,435,9751,100084,Mutiple Chainage
+189,9751,Coramba Road 02,BSC,Rural,Regional,2,Sealed,1200,1670,Dorrigo,470,5.5,2585,2,1987,,435,9751,100084,Mutiple Chainage
+189,9751,Coramba Road 03,BSC,Rural,Regional,2,Sealed,1670,1860,Dorrigo,190,5.8,1102,1,1987,,435,9751,100084,Mutiple Chainage
+189,9751,Coramba Road 04,BSC,Rural,Regional,2,Sealed,1860,2030,Dorrigo,170,5.8,986,1,1987,,435,9751,100084,Mutiple Chainage
+189,9751,Coramba Road 05,BSC,Rural,Regional,2,Sealed,2030,2790,Dorrigo,760,5.8,4408,1,2014,,435,9751,100084,Mutiple Chainage
+189,9751,Coramba Road 06,BSC,Rural,Regional,2,Sealed,2790,3460,Dorrigo,670,5.8,3886,2,2014,,435,9751,100084,Mutiple Chainage
+189,9751,Coramba Road 07,BSC,Rural,Regional,2,Sealed,3460,4880,Dorrigo,1420,5.8,8236,1,1985,,435,9751,100084,Mutiple Chainage
+189,9751,Coramba Road 08,BSC,Rural,Regional,2,Sealed,4880,5470,Dorrigo,590,6.4,3776,1,1985,,435,9751,100084,Mutiple Chainage
+189,9751,Coramba Road 09,BSC,Rural,Regional,2,Sealed,5470,6000,Dorrigo,530,6.4,3392,1,1987,,435,9751,100084,Mutiple Chainage
+189,9751,Coramba Road 10,BSC,Rural,Regional,2,Sealed,6000,6360,Dorrigo,360,6.4,2304,1,1987,,435,9751,100084,Mutiple Chainage
+189,9751,Coramba Road 11,BSC,Rural,Regional,2,Sealed,6360,7030,Dorrigo,670,6.4,4288,3,1987,,435,9751,100084,Mutiple Chainage
+189,9751,Coramba Road 12,BSC,Rural,Regional,2,Sealed,7030,8840,Dorrigo,1810,5.8,10498,1,1985,,435,9751,100084,Mutiple Chainage
+189,9751,Coramba Road 13,BSC,Rural,Regional,2,Sealed,8840,9450,Dorrigo,610,6.2,3782,1,1996,,435,9751,100084,Mutiple Chainage
+189,9751,Coramba Road 14,BSC,Rural,Regional,2,Sealed,9450,10700,Dorrigo,1250,6.2,7750,1,1996,,435,9751,100084,Mutiple Chainage
+189,9751,Coramba Road 15,BSC,Rural,Regional,2,Sealed,10700,13020,Dorrigo,2320,7.8,18096,1,1977,,435,9751,100084,Mutiple Chainage
+189,9751,Coramba Road 16,BSC,Rural,Local,2,Unsealed,13020,20830.38079,Dorrigo,7810.380789,5.5,42957.09434,3,1981,,435,9751,100084,Mutiple Chainage
+150,10573,Creek Lane 01,BSC,Urban,Local,88,Sealed,0,150,Bellingen,150,3.5,525,4,2009,,312,10573,100412,Mutiple Chainage
+150,10573,Creek Lane 02,BSC,Urban,Local,88,Sealed,150,224.5790036,Bellingen,74.57900362,3.5,261.0265127,4,2009,,312,10573,100412,Mutiple Chainage
+293,9760,Crown Street - Roundabout,BSC,Urban,Local,3,Sealed,0,41.38203229,Bellingen,41.38203229,8,331.0562584,2,#N/A,Width measured from Map,70,9760,100092,Mutiple Chainage
+292,9760,Crown Street 01,BSC,Urban,Local,3,Sealed,0,200,Bellingen,200,9.2,1840,1,1977,,70,9760,100092,Mutiple Chainage
+292,9760,Crown Street 02,BSC,Urban,Local,3,Sealed,200,1538.518467,Bellingen,1338.518467,9.8,13117.48097,3,1996,,70,9760,100092,Mutiple Chainage
+24,9761,Cudgery Street - Arterial,RMS,Urban,Local,N/A,Sealed,0,352.2446277,Dorrigo,352.2446277,18.3,6446.076687,,#N/A,,72,9761,100094,Mutiple Chainage
+243,9761,Cudgery Street - Local,BSC,Urban,Local,50,Sealed,0,142.4022321,Dorrigo,142.4022321,6.1,868.6536161,2,1900,,72,9761,100094,Mutiple Chainage
+80,9763,Darkwood Road 01,BSC,Rural,Local,7,Sealed,0,40,Thora,40,6,240,1,1974,,437,9763,100097,Mutiple Chainage
+80,9763,Darkwood Road 02,BSC,Rural,Local,7,Sealed,40,610,Thora,570,6,3420,3,1974,,437,9763,100097,Mutiple Chainage
+80,9763,Darkwood Road 03,BSC,Rural,Local,7,Sealed,610,1170,Thora,560,6,3360,3,1974,,437,9763,100097,Mutiple Chainage
+80,9763,Darkwood Road 04,BSC,Rural,Local,7,Sealed,1170,2250,Thora,1080,4,4320,3,1996,,437,9763,100097,Mutiple Chainage
+80,9763,Darkwood Road 05,BSC,Rural,Local,7,Sealed,2250,4060,Thora,1810,4,7240,2,1985,,437,9763,100097,Mutiple Chainage
+80,9763,Darkwood Road 06,BSC,Rural,Local,7,Sealed,4060,6760,Thora,2700,4,10800,2,2009,,437,9763,100097,Mutiple Chainage
+80,9763,Darkwood Road 07,BSC,Rural,Local,7,Sealed,6760,8360,Thora,1600,4,6400,2,2014,,437,9763,100097,Mutiple Chainage
+80,9763,Darkwood Road 08,BSC,Rural,Local,7,Sealed,8360,8570,Thora,210,4,840,3,2014,,437,9763,100097,Mutiple Chainage
+80,9763,Darkwood Road 09,BSC,Rural,Local,7,Sealed,8570,11940,Thora,3370,3,10110,1,1998,,437,9763,100097,Mutiple Chainage
+80,9763,Darkwood Road 10,BSC,Rural,Local,7,Sealed,11940,12830,Thora,890,5,4450,1,1974,,437,9763,100097,Mutiple Chainage
+80,9763,Darkwood Road 11,BSC,Rural,Local,7,Sealed,12830,13140,Thora,310,6,1860,1,1973,,437,9763,100097,Mutiple Chainage
+80,9763,Darkwood Road 12,BSC,Rural,Local,7,Sealed,13140,13700,Thora,560,6,3360,1,1973,,437,9763,100097,Mutiple Chainage
+80,9763,Darkwood Road 13,BSC,Rural,Local,7,Sealed,13700,14850,Thora,1150,5,5750,1,1987,,437,9763,100097,Mutiple Chainage
+80,9763,Darkwood Road 14,BSC,Rural,Local,7,Unsealed,14850,24560,Thora,9710,3.5,33985,5,1987,,437,9763,100097,Mutiple Chainage
+417,9766,Deer Park Road 01,BSC,Rural,Local,121,Sealed,0,50,Deer Vale,50,3.5,175,2,2012,,74,9766,100100,Mutiple Chainage
+417,9766,Deer Park Road 02,BSC,Rural,Local,121,Unsealed,50,1482.20359,Deer Vale,1432.20359,3.5,5012.712564,2,2012,,74,9766,100100,Mutiple Chainage
+246,9767,Deer Vale Road 01,BSC,Rural,Local,21,Sealed,0,800,Dorrigo,800,4.5,3600,2,1976,,440,9767,100101,Mutiple Chainage
+246,9767,Deer Vale Road 02,BSC,Rural,Local,21,Sealed,800,1360,Dorrigo,560,4.5,2520,2,1976,,440,9767,100101,Mutiple Chainage
+246,9767,Deer Vale Road 03,BSC,Rural,Local,21,Sealed,1360,2180,Dorrigo,820,4.5,3690,2,1976,,440,9767,100101,Mutiple Chainage
+246,9767,Deer Vale Road 04,BSC,Rural,Local,21,Sealed,2180,2700,Dorrigo,520,4,2080,2,2003,,440,9767,100101,Mutiple Chainage
+246,9767,Deer Vale Road 05,BSC,Rural,Local,21,Unsealed,2700,14220,Dorrigo,11520,4.5,51840,3,1984,,440,9767,100101,Mutiple Chainage
+246,9767,Deer Vale Road 06,BSC,Rural,Local,21,Sealed,14220,14920,Dorrigo,700,3.5,2450,2,1985,,440,9767,100101,Mutiple Chainage
+246,9767,Deer Vale Road 07,BSC,Rural,Local,21,Sealed,14920,15700,Dorrigo,780,3.5,2730,2,1985,,440,9767,100101,Mutiple Chainage
+246,9767,Deer Vale Road 08,BSC,Rural,Local,21,Sealed,15700,16730,Dorrigo,1030,3.5,3605,2,1985,,440,9767,100101,Mutiple Chainage
+246,9767,Deer Vale Road 09,BSC,Rural,Local,21,Sealed,16730,17680,Dorrigo,950,3.5,3325,2,1985,,440,9767,100101,Mutiple Chainage
+246,9767,Deer Vale Road 10,BSC,Rural,Local,21,Sealed,17680,18740,Dorrigo,1060,3.5,3710,2,1985,,440,9767,100101,Mutiple Chainage
+246,9767,Deer Vale Road 11,BSC,Rural,Local,21,Sealed,18740,19070,Dorrigo,330,3.5,1155,2,1985,,440,9767,100101,Mutiple Chainage
+246,9767,Deer Vale Road 12,BSC,Rural,Local,21,Sealed,19070,19690,Dorrigo,620,3.5,2170,2,1985,,440,9767,100101,Mutiple Chainage
+246,9767,Deer Vale Road 13,BSC,Rural,Local,21,Sealed,19690,20871.67654,Dorrigo,1181.67654,3.5,4135.86789,2,1985,,440,9767,100101,Mutiple Chainage
+458,9768,Dillon Close,BSC,Urban,Local,112,Sealed,0,105.9908851,Bellingen,105.9908851,7.4,784.3325499,2,1974,,75,9768,100102,Mutiple Chainage
+1376,9768,Dillon Close - 01,BSC,Urban,Local,118,Sealed,0,21.8183449,Bellingen,21.8183449,6,130.9100694,2,1967,,75,9768,100102,Mutiple Chainage
+1377,9768,Dillon Close - 02,BSC,Urban,Local,118,Sealed,0,13.9663783,Bellingen,13.9663783,6,83.79826982,2,1967,,75,9768,100102,Mutiple Chainage
+86,9770,Dome Road 01,BSC,Rural,Local,39,Sealed,0,290,Dorrigo,290,6.5,1885,3,1996,,441,9770,100106,Mutiple Chainage
+86,9770,Dome Road 02,BSC,Rural,Local,39,Sealed,290,510,Dorrigo,220,6.5,1430,2,1996,,441,9770,100106,Mutiple Chainage
+86,9770,Dome Road 03,BSC,Rural,Local,39,Sealed,510,1490,Dorrigo,980,6.5,6370,3,1996,,441,9770,100106,Mutiple Chainage
+86,9770,Dome Road 04,BSC,Rural,Local,39,Sealed,1490,2300,Dorrigo,810,3.5,2835,3,1985,,441,9770,100106,Mutiple Chainage
+86,9770,Dome Road 05,BSC,Rural,Local,39,Sealed,2300,4280,Dorrigo,1980,5.1,10098,2,1996,,441,9770,100106,Mutiple Chainage
+86,9770,Dome Road 06,BSC,Rural,Local,39,Unsealed,4280,6078.005363,Dorrigo,1798.005363,6,10788.03218,2,2001,,441,9770,100106,Mutiple Chainage
+85,9771,Dorrigo Street 01,BSC,Urban,Local,105,Sealed,0,260,Dorrigo,260,5.2,1352,1,1996,,79,9771,100107,Mutiple Chainage
+85,9771,Dorrigo Street 02,BSC,Urban,Local,105,Sealed,260,308.7906919,Dorrigo,48.79069188,7.1,346.4139124,3,1996,,79,9771,100107,Mutiple Chainage
+277,9772,Dowle Street 01,BSC,Urban,Local,106,Sealed,0,400,Bellingen,400,8.5,3400,3,1985,,80,9772,100108,Mutiple Chainage
+277,9772,Dowle Street 02,BSC,Urban,Local,106,Sealed,400,595.7817057,Bellingen,195.7817057,8.5,1664.144499,2,#N/A,,80,9772,100108,Mutiple Chainage
+311,9773,Dudley Street 01,BSC,Urban,Local,107,Sealed,0,110,Bellingen,110,3.5,385,1,1976,,81,9773,100109,Mutiple Chainage
+311,9773,Dudley Street 02,BSC,Urban,Local,107,Sealed,110,195.1835164,Bellingen,85.1835164,3.5,298.1423074,1,1976,,81,9773,100109,Mutiple Chainage
+220,9780,Emersons Road 01,BSC,Rural,Local,81,Sealed,0,860,Bostobrick,860,3.75,3225,1,1996,,88,9780,100116,Mutiple Chainage
+220,9780,Emersons Road 02,BSC,Rural,Local,81,Unsealed,860,4691.750378,Bostobrick,3831.750378,7,26822.25264,2,#N/A,,88,9780,100116,Mutiple Chainage
+398,9785,Fernbrook Loop Road 01,BSC,Rural,Local,64,Sealed,0,1150,Fernbrook,1150,3.3,3795,1,1974,,92,9785,100121,Mutiple Chainage
+398,9785,Fernbrook Loop Road 02,BSC,Rural,Local,64,Sealed,1150,1960,Fernbrook,810,3.3,2673,2,1974,,92,9785,100121,Mutiple Chainage
+398,9785,Fernbrook Loop Road 03,BSC,Rural,Local,64,Sealed,1960,2230,Fernbrook,270,3.3,891,3,1974,,92,9785,100121,Mutiple Chainage
+398,9785,Fernbrook Loop Road 04,BSC,Rural,Local,64,Sealed,2230,3040,Fernbrook,810,3.3,2673,3,1974,,92,9785,100121,Mutiple Chainage
+398,9785,Fernbrook Loop Road 05,BSC,Rural,Local,64,Sealed,3040,5161.036923,Fernbrook,2121.036923,3,6363.110769,3,1985,,92,9785,100121,Mutiple Chainage
+226,9788,Fitzroy Street,BSC,Urban,Local,33,Sealed,0,340,Urunga,340,8.1,2754,1,1968,,94,9788,100123,Mutiple Chainage
+226,9788,Fitzroy Street,BSC,Urban,Local,33,Sealed,340,462.7778949,Urunga,122.7778949,8.1,994.5009484,1,1968,,94,9788,100123,Mutiple Chainage
+2158,9789,Ford Street 01,BSC,Urban,Local,37,Sealed,0,310,Bellingen,310,8,2480,1,1979,,391,9789,100509,Mutiple Chainage
+2158,9789,Ford Street 02,BSC,Urban,Local,37,Sealed,310,530,Bellingen,220,7.4,1628,3,1966,,391,9789,100509,Mutiple Chainage
+2158,9789,Ford Street 03,BSC,Urban,Local,37,Sealed,530,790,Bellingen,260,11.2,2912,1,1974,,391,9789,100509,Mutiple Chainage
+2158,9789,Ford Street 04,BSC,Urban,Local,37,Sealed,790,851.0674101,Bellingen,61.06741007,3.2,195.4157122,1,2009,,391,9789,100509,Mutiple Chainage
+1387,9793,Funda Close,BSC,Urban,Local,112,Sealed,0,214.8507312,Bellingen,214.8507312,7.7,1654.35063,2,1996,,97,9793,100127,Mutiple Chainage
+1389,9793,Funda Close - 01,BSC,Urban,Local,114,Sealed,0,21.74359695,Bellingen,21.74359695,6.6,143.5077399,2,1996,,97,9793,100127,Mutiple Chainage
+137,9794,Gatenby Street 01,BSC,Urban,Local,116,Sealed,0,160,Dorrigo,160,8.9,1424,1,1968,,99,9794,100129,Mutiple Chainage
+137,9794,Gatenby Street 02,BSC,Urban,Local,116,Sealed,160,181.7300729,Dorrigo,21.73007289,8.9,193.3976487,3,1968,,99,9794,100129,Mutiple Chainage
+503,9908,Giinagay Way,RMS,Urban,Local,N/A,Sealed,0,631.8141758,Raleigh,631.8141758,,0,,#N/A,,185,9908,100252,Mutiple Chainage
+1355,9908,Giinagay Way,RMS,Urban,Local,N/A,Sealed,0,12513.8505,Valla,12513.8505,,0,,#N/A,,185,9908,100252,Mutiple Chainage
+456,9908,Giinagay Way - 01,RMS - Other,Urban,Local,N/A,Unsealed,0,231.9394731,Urunga,231.9394731,,0,,#N/A,,185,9908,100252,Mutiple Chainage
+479,9908,Giinagay Way - 02,BSC,Urban,Local,N/A,Sealed,0,255.3426783,Urunga,255.3426783,4,1021.370713,3,#N/A,,185,9908,100252,Mutiple Chainage
+480,9908,Giinagay Way - 03,RMS,Urban,Local,N/A,Sealed,0,151.4165138,Urunga,151.4165138,,0,,#N/A,,185,9908,100252,Mutiple Chainage
+481,9908,Giinagay Way - 04,RMS,Urban,Local,N/A,Sealed,0,74.63202263,Urunga,74.63202263,,0,,#N/A,,185,9908,100252,Mutiple Chainage
+482,9908,Giinagay Way - 05,RMS,Urban,Local,N/A,Sealed,0,86.31174093,Urunga,86.31174093,,0,,#N/A,,185,9908,100252,Mutiple Chainage
+1357,9908,Giinagay Way - Southbound,RMS,Urban,Local,N/A,Sealed,0,1843.902879,Urunga,1843.902879,,0,,#N/A,,185,9908,100252,Mutiple Chainage
+260,9798,Gleniffer Road 01,BSC,Rural,Local,15,Sealed,0,1650,Gleniffer,1650,4.6,7590,2,1976,,102,9798,100133,Mutiple Chainage
+260,9798,Gleniffer Road 02,BSC,Rural,Local,15,Sealed,1650,4480,Gleniffer,2830,4.6,13018,1,1976,,102,9798,100133,Mutiple Chainage
+260,9798,Gleniffer Road 03,BSC,Rural,Local,15,Sealed,4480,5410,Gleniffer,930,4.6,4278,1,1974,,102,9798,100133,Mutiple Chainage
+260,9798,Gleniffer Road 04,BSC,Rural,Local,15,Sealed,5410,6120,Gleniffer,710,4.6,3266,1,2009,,102,9798,100133,Mutiple Chainage
+260,9798,Gleniffer Road 05,BSC,Rural,Local,15,Sealed,6120,7030,Gleniffer,910,4.6,4186,1,1985,,102,9798,100133,Mutiple Chainage
+260,9798,Gleniffer Road 06,BSC,Rural,Local,15,Sealed,7030,7752.595279,Gleniffer,722.595279,4.6,3323.938283,2,2009,,102,9798,100133,Mutiple Chainage
+9,9801,Gordonville Road 01,BSC,Rural,Local,46,Sealed,0,650,Gleniffer,650,3.2,2080,1,1967,,527,9801,100136,Mutiple Chainage
+9,9801,Gordonville Road 02,BSC,Rural,Local,46,Sealed,650,1080,Gleniffer,430,3.2,1376,1,1992,,527,9801,100136,Mutiple Chainage
+9,9801,Gordonville Road 03,BSC,Rural,Local,46,Sealed,1080,1190,Gleniffer,110,3.2,352,1,1992,,527,9801,100136,Mutiple Chainage
+9,9801,Gordonville Road 04,BSC,Rural,Local,46,Sealed,1190,2010,Gleniffer,820,3.2,2624,1,1992,,527,9801,100136,Mutiple Chainage
+9,9801,Gordonville Road 05,BSC,Rural,Local,46,Sealed,2010,2960,Gleniffer,950,3.3,3135,1,1977,,527,9801,100136,Mutiple Chainage
+9,9801,Gordonville Road 06,BSC,Rural,Local,46,Sealed,2960,3500,Gleniffer,540,3.4,1836,1,1974,,527,9801,100136,Mutiple Chainage
+9,9801,Gordonville Road 07,BSC,Rural,Local,46,Sealed,3500,4260,Gleniffer,760,3.4,2584,1,1974,,527,9801,100136,Mutiple Chainage
+9,9801,Gordonville Road 08,BSC,Rural,Local,46,Sealed,4260,4660,Gleniffer,400,3.4,1360,1,1974,,527,9801,100136,Mutiple Chainage
+9,9801,Gordonville Road 09,BSC,Rural,Local,46,Sealed,4660,4720,Gleniffer,60,3.4,204,1,1974,,527,9801,100136,Mutiple Chainage
+9,9801,Gordonville Road 10,BSC,Rural,Local,46,Sealed,4720,5120,Gleniffer,400,3.4,1360,1,1974,,527,9801,100136,Mutiple Chainage
+9,9801,Gordonville Road 11,BSC,Rural,Local,46,Sealed,5120,6038.927254,Gleniffer,918.9272537,3.4,3124.352663,3,1974,,527,9801,100136,Mutiple Chainage
+176,9803,Gum Street 01,BSC,Urban,Local,112,Sealed,0,120,Dorrigo,120,3,360,1,1987,,106,9803,100138,Mutiple Chainage
+176,9803,Gum Street 02,BSC,Urban,Local,112,Sealed,120,177,Dorrigo,57,3,171,1,1987,,106,9803,100138,Mutiple Chainage
+1378,9806,Halpin Street,BSC,Urban,Local,105,Sealed,0,346.571246,Bellingen,346.571246,8.1,2807.227093,2,1996,,108,9806,100141,Mutiple Chainage
+1381,9806,Halpin Street - Westbound 01,BSC,Urban,Local,107,Sealed,0,51.99830906,Bellingen,51.99830906,3.7,192.3937435,2,1996,,108,9806,100141,Mutiple Chainage
+1379,9806,Halpin Street - Westbound 02,BSC,Urban,Local,107,Sealed,0,52.12067134,Bellingen,52.12067134,3.7,192.846484,2,1996,,108,9806,100141,Mutiple Chainage
+484,9807,Hammond Street - 01 01,BSC,Urban,Local,14,Sealed,0,70,Bellingen,70,3.5,245,5,#N/A,,111,9807,100145,Mutiple Chainage
+484,9807,Hammond Street - 01 02,BSC,Urban,Local,14,Sealed,70,115.0670745,Bellingen,45.06707448,3.5,157.7347607,5,#N/A,,111,9807,100145,Mutiple Chainage
+483,9807,Hammond Street 01,BSC,Urban,Local,5,Sealed,0,110,Bellingen,110,3.8,418,1,1996,,111,9807,100145,Mutiple Chainage
+483,9807,Hammond Street 02,BSC,Urban,Local,5,Sealed,110,484.5117922,Bellingen,374.5117922,10.8,4044.727356,1,1996,,111,9807,100145,Mutiple Chainage
+443,9809,Hennesseys Lane 01,BSC,Rural,Local,91,Sealed,0,500,Bellingen,500,3.5,1750,3,2012,,447,9809,100147,Mutiple Chainage
+443,9809,Hennesseys Lane 02,BSC,Rural,Local,91,Unsealed,500,2045.477316,Bellingen,1545.477316,3,4636.431949,2,2012,,447,9809,100147,Mutiple Chainage
+486,9811,Hickory Street - 01,BSC,Urban,Local,35,Sealed,0,80.51254733,Dorrigo,80.51254733,5,402.5627367,1,#N/A,,448,9811,100149,Mutiple Chainage
+70,9811,Hickory Street - Arterial,BSC,Urban,Regional,5,Sealed,0,483.9366859,Dorrigo,483.9366859,10.1,4887.760527,1,1985,,448,9811,100149,Mutiple Chainage
+485,9811,Hickory Street - Collector,BSC,Urban,Local,27,Sealed,0,667.1534893,Dorrigo,667.1534893,22.9,15277.8149,3,1996,,448,9811,100149,Mutiple Chainage
+84,9811,Hickory Street - Local,BSC,Urban,Local,25,Sealed,0,397.3030889,Dorrigo,397.3030889,4,1589.212355,3,1985,,448,9811,100149,Mutiple Chainage
+4,9814,Hillside Drive,BSC,Urban,Local,65,Sealed,0,983.2682919,Urunga,983.2682919,7,6882.878043,2,1992,,115,9814,100155,Mutiple Chainage
+,9814,Hillside Drive 01,BSC,Urban,Local,65,Sealed,0,145.1,Urunga,145.1,3.5,507.85,1,#N/A,Width measured from Map,115,9814,100155,Mutiple Chainage
+83,9815,Hollibone Street 01,BSC,Urban,Local,57,Sealed,0,330,Dorrigo,330,4.5,1485,1,2009,,116,9815,100156,Copied
+83,9815,Hollibone Street 02,BSC,Urban,Local,57,Sealed,330,492.7755768,Dorrigo,162.7755768,4.5,732.4900956,3,2009,,116,9815,100156,Copied
+452,9818,Horseshoe Road 01,BSC,Rural,Local,77,Sealed,0,180,Thora,180,4,720,2,1996,,119,9818,100159,Mutiple Chainage
+452,9818,Horseshoe Road 02,BSC,Rural,Local,77,Unsealed,180,2488.02068,Thora,2308.02068,4,9232.082721,2,2012,,119,9818,100159,Mutiple Chainage
+125,9820,Hungry Head Road 01,BSC,Rural,Local,49,Sealed,0,640,Urunga,640,3.5,2240,2,1985,,120,9820,100161,Mutiple Chainage
+125,9820,Hungry Head Road 02,BSC,Rural,Local,49,Sealed,640,1020,Urunga,380,4.5,1710,2,1985,,120,9820,100161,Mutiple Chainage
+125,9820,Hungry Head Road 03,BSC,Rural,Local,49,Sealed,1020,2450,Urunga,1430,4.5,6435,2,1974,,120,9820,100161,Mutiple Chainage
+125,9820,Hungry Head Road 04,BSC,Rural,Local,49,Sealed,2450,4891.687002,Urunga,2441.687002,4.75,11598.01326,2,1985,,120,9820,100161,Mutiple Chainage
+200,9822,Hyde Street 01,BSC,Urban,Local,105,Sealed,0,270,Fernmount,270,5,1350,2,1987,,122,9822,100163,Mutiple Chainage
+200,9822,Hyde Street 02,BSC,Urban,Local,105,Sealed,270,349.531345,Fernmount,79.53134497,5,397.6567248,2,1987,,122,9822,100163,Mutiple Chainage
+3,9823,Hydes Creek Road 01,BSC,Rural,Local,17,Sealed,0,720,Bellingen,720,3.5,2520,1,1987,,123,9823,100164,Mutiple Chainage
+3,9823,Hydes Creek Road 02,BSC,Rural,Local,17,Sealed,720,2120,Bellingen,1400,5,7000,1,1987,,123,9823,100164,Mutiple Chainage
+3,9823,Hydes Creek Road 03,BSC,Rural,Local,17,Sealed,2120,5940,Bellingen,3820,3.5,13370,2,2007,,123,9823,100164,Mutiple Chainage
+3,9823,Hydes Creek Road 04,BSC,Rural,Local,17,Sealed,5940,6100,Bellingen,160,3,480,1,1985,,123,9823,100164,Mutiple Chainage
+3,9823,Hydes Creek Road 05,BSC,Rural,Local,17,Sealed,6100,7940,Bellingen,1840,3,5520,2,1985,,123,9823,100164,Mutiple Chainage
+3,9823,Hydes Creek Road 06,BSC,Rural,Local,17,Sealed,7940,8340,Bellingen,400,3,1200,1,1985,,123,9823,100164,Mutiple Chainage
+3,9823,Hydes Creek Road 07,BSC,Rural,Local,17,Sealed,8340,9746.000164,Bellingen,1406.000164,3,4218.000493,2,1985,,123,9823,100164,Mutiple Chainage
+1,9826,Island Place,BSC,Urban,Local,112,Sealed,0,85.8,Urunga,85.8,7.8,669.24,2,2009,,125,9826,100166,Mutiple Chainage
+1364,9826,Island Place - 01,BSC,Urban,Local,114,Sealed,0,164,Urunga,164,7.8,1279.2,3,1985,,125,9826,100166,Mutiple Chainage
+1365,9827,Island Place - 02,BSC,Urban,Local,114,Sealed,0,58.7,Urunga,58.7,7.8,457.86,3,1996,,127,9827,100168,Mutiple Chainage
+269,9827,Ivory Curl Close,BSC,Urban,Local,118,Sealed,0,98.39581271,Bellingen,98.39581271,6,590.3748763,2,1976,,127,9827,100168,Mutiple Chainage
+193,9831,John Glyde Road 01,BSC,Rural,Local,116,Sealed,0,50,Bellingen,50,4,200,2,1974,,450,9831,100172,Mutiple Chainage
+193,9831,John Glyde Road 02,BSC,Rural,Local,116,Unsealed,50,420.2241253,Bellingen,370.2241253,4,1480.896501,2,1981,,450,9831,100172,Mutiple Chainage
+464,9833,Johnsens Road 01,BSC,Rural,Local,111,Sealed,0,1830,Fernbrook,1830,4,7320,5,2008,,452,9833,100174,Mutiple Chainage
+464,9833,Johnsens Road 02,BSC,Rural,Local,111,Unsealed,1830,4280.58172,Fernbrook,2450.58172,4,9802.326882,3,2004,,452,9833,100174,Mutiple Chainage
+5,9835,Kalang Road 01,BSC,Rural,Local,10,Sealed,0,1210,Bellingen,1210,5.4,6534,3,1996,,534,9835,100176,Mutiple Chainage
+5,9835,Kalang Road 02,BSC,Rural,Local,10,Sealed,1210,1660,Bellingen,450,6,2700,3,1996,,534,9835,100176,Mutiple Chainage
+5,9835,Kalang Road 03,BSC,Rural,Local,10,Sealed,1660,3870,Bellingen,2210,4.8,10608,2,1985,,534,9835,100176,Mutiple Chainage
+5,9835,Kalang Road 04,BSC,Rural,Local,10,Sealed,3870,6200,Bellingen,2330,4.3,10019,1,1985,,534,9835,100176,Mutiple Chainage
+5,9835,Kalang Road 05,BSC,Rural,Local,10,Sealed,6200,8520,Bellingen,2320,3.2,7424,2,1969,,534,9835,100176,Mutiple Chainage
+5,9835,Kalang Road 06,BSC,Rural,Local,10,Sealed,8520,10090,Bellingen,1570,4.2,6594,3,1992,,534,9835,100176,Mutiple Chainage
+5,9835,Kalang Road 07,BSC,Rural,Local,10,Sealed,10090,10460,Bellingen,370,3.5,1295,1,1985,,534,9835,100176,Mutiple Chainage
+5,9835,Kalang Road 08,BSC,Rural,Local,10,Sealed,10460,10680,Bellingen,220,3.5,770,2,1985,,534,9835,100176,Mutiple Chainage
+5,9835,Kalang Road 09,BSC,Rural,Local,10,Sealed,10680,10900,Bellingen,220,3.5,770,1,1985,,534,9835,100176,Mutiple Chainage
+5,9835,Kalang Road 10,BSC,Rural,Local,10,Sealed,10900,11530,Bellingen,630,3.5,2205,1,1985,,534,9835,100176,Mutiple Chainage
+5,9835,Kalang Road 11,BSC,Rural,Local,10,Sealed,11530,11780,Bellingen,250,3.5,875,1,1985,,534,9835,100176,Mutiple Chainage
+5,9835,Kalang Road 12,BSC,Rural,Local,10,Sealed,11780,12470,Bellingen,690,3.5,2415,1,1985,,534,9835,100176,Mutiple Chainage
+5,9835,Kalang Road 13,BSC,Rural,Local,10,Sealed,12470,12810,Bellingen,340,3.5,1190,1,1985,,534,9835,100176,Mutiple Chainage
+5,9835,Kalang Road 14,BSC,Rural,Local,10,Sealed,12810,14962,Bellingen,2152,3.25,6994,3,1996,,534,9835,100176,Mutiple Chainage
+5,9835,Kalang Road 15,BSC,Rural,Local,10,Unsealed,14962,35088.93981,Bellingen,20126.93981,3,60380.81943,5,1996,,534,9835,100176,Mutiple Chainage
+31,9838,Keevers Drive 01,BSC,Rural,Local,11,Sealed,0,1420,Raleigh,1420,5,7100,2,1996,,134,9838,100179,Mutiple Chainage
+31,9838,Keevers Drive 02,BSC,Rural,Local,11,Sealed,1420,1990,Raleigh,570,5,2850,1,1996,,134,9838,100179,Mutiple Chainage
+31,9838,Keevers Drive 03,BSC,Rural,Local,11,Sealed,1990,3881.03463,Raleigh,1891.03463,5,9455.17315,2,1996,,134,9838,100179,Mutiple Chainage
+286,9840,Kenny Close 01,BSC,Urban,Local,101,Sealed,0,80,Bellingen,80,6.5,520,1,1985,,136,9840,100182,Mutiple Chainage
+286,9840,Kenny Close 02,BSC,Urban,Local,101,Sealed,80,318.6604057,Bellingen,238.6604057,6.5,1551.292637,1,1985,,136,9840,100182,Mutiple Chainage
+68,9843,Kurrajong Street 01,BSC,Urban,Local,37,Sealed,0,750,Dorrigo,750,10,7500,1,1968,,138,9843,100185,Mutiple Chainage
+68,9843,Kurrajong Street 02,BSC,Urban,Local,37,Sealed,750,1150,Dorrigo,400,10,4000,1,1992,,138,9843,100185,Mutiple Chainage
+68,9843,Kurrajong Street 03,BSC,Urban,Local,37,Sealed,1150,1411.8675,Dorrigo,261.8675002,9.1,2382.994252,3,1996,,138,9843,100185,Mutiple Chainage
+231,9846,Little North Arm Road 01,BSC,Rural,Local,71,Sealed,0,290,Thora,290,3,870,1,2004,,456,9846,100188,Mutiple Chainage
+231,9846,Little North Arm Road 02,BSC,Rural,Local,71,Sealed,290,1240,Thora,950,3,2850,1,1987,,456,9846,100188,Mutiple Chainage
+231,9846,Little North Arm Road 03,BSC,Rural,Local,71,Unsealed,1240,1451.827913,Thora,211.8279126,3.9,826.1288591,3,2004,,456,9846,100188,Mutiple Chainage
+392,9849,Lower Bielsdown Road 01,BSC,Rural,Local,66,Sealed,0,1030,Tallowwood Ridge,1030,4,4120,1,1968,,457,9849,100191,Mutiple Chainage
+392,9849,Lower Bielsdown Road 02,BSC,Rural,Local,66,Sealed,1030,2060,Tallowwood Ridge,1030,4,4120,1,1968,,457,9849,100191,Mutiple Chainage
+392,9849,Lower Bielsdown Road 03,BSC,Rural,Local,66,Sealed,2060,2800,Tallowwood Ridge,740,4,2960,1,1968,,457,9849,100191,Mutiple Chainage
+392,9849,Lower Bielsdown Road 04,BSC,Rural,Local,66,Sealed,2800,3300,Tallowwood Ridge,500,4,2000,1,1996,,457,9849,100191,Mutiple Chainage
+392,9849,Lower Bielsdown Road 05,BSC,Rural,Local,66,Sealed,3300,4240,Tallowwood Ridge,940,4,3760,1,1996,,457,9849,100191,Mutiple Chainage
+392,9849,Lower Bielsdown Road 06,BSC,Rural,Local,66,Sealed,4240,4700,Tallowwood Ridge,460,4,1840,1,1996,,457,9849,100191,Mutiple Chainage
+392,9849,Lower Bielsdown Road 07,BSC,Rural,Local,66,Sealed,4700,4750,Tallowwood Ridge,50,4,200,1,1996,,457,9849,100191,Mutiple Chainage
+392,9849,Lower Bielsdown Road 08,BSC,Rural,Local,66,Sealed,4750,5010,Tallowwood Ridge,260,4,1040,1,1996,,457,9849,100191,Mutiple Chainage
+392,9849,Lower Bielsdown Road 09,BSC,Rural,Local,66,Sealed,5010,6010,Tallowwood Ridge,1000,4,4000,1,1974,,457,9849,100191,Mutiple Chainage
+392,9849,Lower Bielsdown Road 10,BSC,Rural,Local,66,Sealed,6010,6440,Tallowwood Ridge,430,4,1720,1,1974,,457,9849,100191,Mutiple Chainage
+392,9849,Lower Bielsdown Road 11,BSC,Rural,Local,66,Sealed,6440,7110,Tallowwood Ridge,670,4,2680,1,1968,,457,9849,100191,Mutiple Chainage
+392,9849,Lower Bielsdown Road 12,BSC,Rural,Local,66,Sealed,7110,7370,Tallowwood Ridge,260,4,1040,1,1968,,457,9849,100191,Mutiple Chainage
+392,9849,Lower Bielsdown Road 13,BSC,Rural,Local,66,Sealed,7370,8310,Tallowwood Ridge,940,4,3760,1,1968,,457,9849,100191,Mutiple Chainage
+392,9849,Lower Bielsdown Road 14,BSC,Rural,Local,66,Sealed,8310,9440,Tallowwood Ridge,1130,4,4520,1,1968,,457,9849,100191,Mutiple Chainage
+392,9849,Lower Bielsdown Road 15,BSC,Rural,Local,66,Sealed,9440,9940,Tallowwood Ridge,500,4,2000,1,1985,,457,9849,100191,Mutiple Chainage
+392,9849,Lower Bielsdown Road 16,BSC,Rural,Local,66,Sealed,9940,10460,Tallowwood Ridge,520,4,2080,1,1985,,457,9849,100191,Mutiple Chainage
+392,9849,Lower Bielsdown Road 17,BSC,Rural,Local,66,Sealed,10460,11450,Tallowwood Ridge,990,4,3960,1,1985,,457,9849,100191,Mutiple Chainage
+392,9849,Lower Bielsdown Road 18,BSC,Rural,Local,66,Sealed,11450,11666,Tallowwood Ridge,216,4,864,1,1985,,457,9849,100191,Mutiple Chainage
+392,9849,Lower Bielsdown Road 19,BSC,Rural,Local,66,Unsealed,11666,12568,Tallowwood Ridge,902,4,3608,1,1985,,457,9849,100191,Mutiple Chainage
+188,15211,Mackays Creek Road 01,BSC,Rural,Local,42,Sealed,0,1450,Megan,1450,4,5800,1,1998,,515,15211,100498,Mutiple Chainage
+188,15211,Mackays Creek Road 02,BSC,Rural,Local,42,Unsealed,1450,3123.980437,Megan,1673.980437,4,6695.92175,4,1998,,515,15211,100498,Mutiple Chainage
+434,11040,Marks Road,BSC,Rural,Local,120,Unsealed,0,278.6262331,Megan,278.6262331,3,835.8786993,3,2012,,341,11040,100447,Mutiple Chainage
+1367,11040,Marks Road - 01,BSC,Rural,Local,122,Unsealed,0,32.11332514,Megan,32.11332514,3,96.33997543,2,2012,,341,11040,100447,Mutiple Chainage
+247,9858,Martells Road 01,BSC,Rural,Local,32,Sealed,0,1650,Brierfield,1650,3,4950,1,#N/A,,147,9858,100199,Mutiple Chainage
+247,9858,Martells Road 02,BSC,Rural,Local,32,Sealed,1650,2110,Brierfield,460,3,1380,1,#N/A,,147,9858,100199,Mutiple Chainage
+247,9858,Martells Road 02,BSC,Rural,Local,32,Sealed,2110,2240,Brierfield,130,3,390,1,#N/A,,147,9858,100199,Mutiple Chainage
+247,9858,Martells Road 03,BSC,Rural,Local,32,Sealed,2240,3910,Brierfield,1670,3,5010,1,#N/A,,147,9858,100199,Mutiple Chainage
+247,9858,Martells Road 04,BSC,Rural,Local,32,Sealed,3910,4250,Brierfield,340,3,1020,1,#N/A,,147,9858,100199,Mutiple Chainage
+247,9858,Martells Road 05,BSC,Rural,Local,32,Sealed,4250,5030,Brierfield,780,3,2340,1,#N/A,,147,9858,100199,Mutiple Chainage
+247,9858,Martells Road 06,BSC,Rural,Local,32,Sealed,5030,5750,Brierfield,720,3,2160,1,#N/A,,147,9858,100199,Mutiple Chainage
+247,9858,Martells Road 07,BSC,Rural,Local,32,Unsealed,5750,11430,Brierfield,5680,6,34080,4,#N/A,,147,9858,100199,Mutiple Chainage
+247,9858,Martells Road 08,BSC,Rural,Local,32,Sealed,11430,11960,Brierfield,530,3,1590,1,#N/A,,147,9858,100199,Mutiple Chainage
+247,9858,Martells Road 09,BSC,Rural,Local,32,Unsealed,11960,12350,Brierfield,390,6,2340,4,#N/A,,147,9858,100199,Mutiple Chainage
+247,9858,Martells Road 10,BSC,Rural,Local,32,Sealed,12350,13550,Brierfield,1200,3,3600,1,#N/A,,147,9858,100199,Mutiple Chainage
+141,9864,Maynards Plains Road 01,BSC,Rural,Local,30,Sealed,0,240,Dorrigo Mountain,240,6,1440,1,2009,,151,9864,100204,Mutiple Chainage
+141,9864,Maynards Plains Road 02,BSC,Rural,Local,30,Sealed,240,870,Dorrigo Mountain,630,3,1890,2,2003,,151,9864,100204,Mutiple Chainage
+141,9864,Maynards Plains Road 03,BSC,Rural,Local,30,Sealed,870,4570,Dorrigo Mountain,3700,3,11100,1,1969,,151,9864,100204,Mutiple Chainage
+141,9864,Maynards Plains Road 04,BSC,Rural,Local,30,Unsealed,4570,6403.9471,Dorrigo Mountain,1833.9471,4,7335.7884,3,1996,,151,9864,100204,Mutiple Chainage
+111,9865,McCristal Drive 01,BSC,Urban,Local,51,Sealed,0,250,Bellingen,250,5,1250,2,1981,,152,9865,100205,Mutiple Chainage
+111,9865,McCristal Drive 02,BSC,Urban,Local,51,Sealed,250,531.5162835,Bellingen,281.5162835,5,1407.581418,2,1981,,152,9865,100205,Mutiple Chainage
+232,9867,McGraths Road 01,BSC,Rural,Local,121,Sealed,0,250,Thora,250,3,750,1,1973,,528,9867,100207,Mutiple Chainage
+232,9867,McGraths Road 02,BSC,Rural,Local,121,Unsealed,250,911.4107773,Thora,661.4107773,5,3307.053886,3,2008,,528,9867,100207,Mutiple Chainage
+414,9868,McIndoes Road 01,BSC,Rural,Local,56,Sealed,0,1450,Deer Vale,1450,4,5800,1,2004,,461,9868,100208,Mutiple Chainage
+414,9868,McIndoes Road 02,BSC,Rural,Local,56,Unsealed,1450,4779.602025,Deer Vale,3329.602025,4,13318.4081,3,2001,,461,9868,100208,Mutiple Chainage
+487,9869,McNally Street - 01,BSC,Urban,Local,99,Sealed,0,62.15997465,Bellingen,62.15997465,4.2,261.0718935,2,1969,,154,9869,100209,Mutiple Chainage
+488,9869,McNally Street 01,BSC,Urban,Local,79,Sealed,0,110,Bellingen,110,4.2,462,2,1969,,154,9869,100209,Mutiple Chainage
+488,9869,McNally Street 02,BSC,Urban,Local,79,Sealed,110,516.713173,Bellingen,406.713173,7.8,3172.362749,2,1969,,154,9869,100209,Mutiple Chainage
+353,10056,Minerva Lane 01,BSC,Urban,Local,85,Sealed,0,130,Urunga,130,3,390,1,1987,,273,10056,100368,Mutiple Chainage
+353,10056,Minerva Lane 02,BSC,Urban,Local,85,Sealed,130,190,Urunga,60,3,180,1,1985,,273,10056,100368,Mutiple Chainage
+353,10056,Minerva Lane 03,BSC,Urban,Local,85,Sealed,190,457.6714634,Urunga,267.6714634,3,803.0143903,2,1969,,273,10056,100368,Mutiple Chainage
+490,9873,Moore Place,BSC,Urban,Local,116,Sealed,0,188.0330773,Urunga,188.0330773,7.8,1466.658003,1,1985,,158,9873,100214,Mutiple Chainage
+489,9873,Moore Place - 01,BSC,Urban,Local,118,Sealed,0,44.74002533,Urunga,44.74002533,7.8,348.9721975,1,1966,,158,9873,100214,Mutiple Chainage
+903,9874,Morgo Street - Tourist,BSC,Urban,Local,57,Unsealed,0,123.1307586,Urunga,123.1307586,8.9,1095.863752,?,1966,,160,9874,100216,Mutiple Chainage
+352,9874,Morgo Street 01 - Local,BSC,Urban,Local,34,Sealed,0,333,Urunga,333,12.2,4062.6,2,2003,,160,9874,100216,Mutiple Chainage
+352,9874,Morgo Street 01 - Local,BSC,Urban,Local,34,Sealed,333,822.3087037,Urunga,489.3087037,9.2,4501.640074,1,1969,,160,9874,100216,Mutiple Chainage
+378,9876,Mount Street 01,BSC,Urban,Local,91,Sealed,0,800,Fernmount,800,4.3,3440,3,1971,,161,9876,100218,Mutiple Chainage
+378,9876,Mount Street 02,BSC,Urban,Local,91,Sealed,800,1300,Fernmount,500,3.8,1900,3,1973,,161,9876,100218,Mutiple Chainage
+378,9876,Mount Street 03,BSC,Urban,Local,91,Sealed,1300,2189.27405,Fernmount,889.2740503,3.8,3379.241391,3,2009,,161,9876,100218,Mutiple Chainage
+386,12709,Mt Tabor Close,Private,Urban,Local,N/A,Sealed,0,91.32546757,Bellingen,91.32546757,3,273.9764027,,2009,,355,12709,100465,Mutiple Chainage
+1373,12709,Mt Tabor Close - 01,Private,Urban,Local,N/A,Sealed,0,17.12429712,Bellingen,17.12429712,3,51.37289136,,2009,,355,12709,100465,Mutiple Chainage
+413,9879,Muldiva Road 01,BSC,Rural,Local,80,Sealed,0,520,Bostobrick,520,3.2,1664,1,1996,,464,9879,100221,Mutiple Chainage
+413,9879,Muldiva Road 02,BSC,Rural,Local,80,Sealed,520,1030,Bostobrick,510,3.2,1632,1,1996,,464,9879,100221,Mutiple Chainage
+413,9879,Muldiva Road 03,BSC,Rural,Local,80,Sealed,1030,2530,Bostobrick,1500,3.2,4800,1,1996,,464,9879,100221,Mutiple Chainage
+413,9879,Muldiva Road 04,BSC,Rural,Local,80,Sealed,2530,2960,Bostobrick,430,3.2,1376,1,1996,,464,9879,100221,Mutiple Chainage
+413,9879,Muldiva Road 05,BSC,Rural,Local,80,Sealed,2960,4320,Bostobrick,1360,3.2,4352,1,1987,,464,9879,100221,Mutiple Chainage
+413,9879,Muldiva Road 06,BSC,Rural,Local,80,Sealed,4320,4530,Bostobrick,210,3.2,672,1,1987,,464,9879,100221,Mutiple Chainage
+413,9879,Muldiva Road 07,BSC,Rural,Local,80,Unsealed,4530,10440.65801,Bostobrick,5910.658009,6,35463.94805,2,1996,,464,9879,100221,Mutiple Chainage
+49,14626,Mylestom - Interchange,RMS - Other,Urban,Local,N/A,Sealed,0,107.3736571,Repton,107.3736571,9,966.3629142,,#N/A,,361,14626,100473,Mutiple Chainage
+54,14626,Mylestom - Off Ramp North,RMS - Other,Urban,Local,N/A,Sealed,0,505.0806999,Valery,505.0806999,,0,,#N/A,,361,14626,100473,Mutiple Chainage
+52,14626,Mylestom - Off Ramp South,RMS - Other,Urban,Local,N/A,Sealed,0,503.8152275,Repton,503.8152275,,0,,#N/A,,361,14626,100473,Mutiple Chainage
+53,14626,Mylestom - On Ramp North,RMS - Other,Urban,Local,N/A,Sealed,0,510.0907806,Valery,510.0907806,,0,,#N/A,,361,14626,100473,Mutiple Chainage
+51,14626,Mylestom - On Ramp South,RMS - Other,Urban,Local,N/A,Sealed,0,494.4595529,Repton,494.4595529,,0,,#N/A,,361,14626,100473,Mutiple Chainage
+2,13145,Mylestom Interchange - East,BSC,Rural,Local,36,Sealed,0,179.0428755,Repton,179.0428755,9,1611.38588,1,2009,,357,13145,100468,Mutiple Chainage
+55,14626,Mylestom Interchange - West,RMS - Other,Rural,Local,N/A,Sealed,0,84.80082014,Valery,84.80082014,,0,,#N/A,,361,14626,100473,Mutiple Chainage
+491,9882,Myrtle Street 01,BSC,Urban,Local,31,Sealed,0,260,Dorrigo,260,10,2600,2,2009,,165,9882,100224,Mutiple Chainage
+491,9882,Myrtle Street 02,BSC,Urban,Local,31,Sealed,260,870,Dorrigo,610,4.7,2867,1,2009,,165,9882,100224,Mutiple Chainage
+491,9882,Myrtle Street 03,BSC,Urban,Local,31,Sealed,870,1128.294379,Dorrigo,258.2943787,6.5,1678.913462,3,2009,,165,9882,100224,Mutiple Chainage
+419,9884,Nashs Road 01,BSC,Rural,Local,119,Sealed,0,1820,Deer Vale,1820,3.6,6552,3,2001,,167,9884,100226,Mutiple Chainage
+419,9884,Nashs Road 02,BSC,Rural,Local,119,Sealed,1820,2738.770363,Deer Vale,918.770363,3.6,3307.573307,2,2001,,167,9884,100226,Mutiple Chainage
+75,9888,Newry Island Drive 01,BSC,Urban,Local,84,Sealed,0,20,Urunga,20,7,140,2,1996,,170,9888,100229,Mutiple Chainage
+75,9888,Newry Island Drive 02,BSC,Urban,Local,84,Sealed,20,680,Urunga,660,7,4620,2,1996,,170,9888,100229,Mutiple Chainage
+75,9888,Newry Island Drive 03,BSC,Urban,Local,84,Sealed,680,1980,Urunga,1300,7,9100,3,1996,,170,9888,100229,Mutiple Chainage
+75,9888,Newry Island Drive 04,BSC,Urban,Local,84,Unsealed,1980,2310.030715,Urunga,330.030715,4,1320.12286,4,1968,,170,9888,100229,Mutiple Chainage
+2561,9887,Newry Street East 01,BSC,Urban,Local,45,Sealed,0,80,Urunga,80,9,720,2,1974,,394,9887,100512,Mutiple Chainage
+2561,9887,Newry Street East 02,BSC,Urban,Local,45,Sealed,80,335.1317686,Urunga,255.1317686,9,2296.185918,1,1974,,394,9887,100512,Mutiple Chainage
+304,9890,Nobles Lane 01,BSC,Rural,Local,94,Unsealed,0,910,Bellingen,910,4,3640,2,2004,,466,9890,100231,Mutiple Chainage
+304,9890,Nobles Lane 02,BSC,Rural,Local,94,Sealed,910,1066.04753,Bellingen,156.0475303,3.5,546.166356,4,1996,,466,9890,100231,Mutiple Chainage
+6,9894,North Bank Road 01,BSC,Rural,Local,23,Sealed,0,150,Bellingen,150,3,450,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 02,BSC,Rural,Local,23,Sealed,150,840,Bellingen,690,3,2070,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 03,BSC,Rural,Local,23,Sealed,840,1510,Bellingen,670,3,2010,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 04,BSC,Rural,Local,23,Sealed,1510,2330,Bellingen,820,3,2460,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 05,BSC,Rural,Local,23,Sealed,2330,2640,Bellingen,310,3,930,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 06,BSC,Rural,Local,23,Sealed,2640,2930,Bellingen,290,3,870,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 07,BSC,Rural,Local,23,Sealed,2930,3210,Bellingen,280,3,840,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 08,BSC,Rural,Local,23,Sealed,3210,3320,Bellingen,110,3,330,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 09,BSC,Rural,Local,23,Sealed,3320,3380,Bellingen,60,3,180,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 10,BSC,Rural,Local,23,Sealed,3380,3460,Bellingen,80,3,240,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 11,BSC,Rural,Local,23,Sealed,3460,4450,Bellingen,990,3,2970,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 12,BSC,Rural,Local,23,Sealed,4450,4740,Bellingen,290,3,870,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 13,BSC,Rural,Local,23,Sealed,4740,4880,Bellingen,140,3,420,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 14,BSC,Rural,Local,23,Sealed,4880,4980,Bellingen,100,3,300,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 15,BSC,Rural,Local,23,Sealed,4980,5980,Bellingen,1000,3,3000,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 16,BSC,Rural,Local,23,Sealed,5980,6480,Bellingen,500,3,1500,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 17,BSC,Rural,Local,23,Sealed,6480,6800,Bellingen,320,3,960,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 18,BSC,Rural,Local,23,Sealed,6800,7850,Bellingen,1050,3,3150,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 19,BSC,Rural,Local,23,Sealed,7850,8420,Bellingen,570,3,1710,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 20,BSC,Rural,Local,23,Sealed,8420,9380,Bellingen,960,3,2880,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 21,BSC,Rural,Local,23,Sealed,9380,9770,Bellingen,390,3,1170,2,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 22,BSC,Rural,Local,23,Sealed,9770,10290,Bellingen,520,3,1560,1,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 23,BSC,Rural,Local,23,Sealed,10290,10820,Bellingen,530,3,1590,2,2019,,174,9894,100235,Mutiple Chainage
+6,9894,North Bank Road 24,BSC,Rural,Local,23,Sealed,10820,11786.38681,Bellingen,966.3868108,6,5798.320865,1,2019,,174,9894,100235,Mutiple Chainage
+381,9892,North Street 01,BSC,Urban,Local,66,Sealed,0,100,Raleigh,100,6,600,1,1974,,172,9892,100233,Mutiple Chainage
+381,9892,North Street 02,BSC,Urban,Local,66,Sealed,100,670.9843692,Raleigh,570.9843692,6,3425.906215,1,2019,,172,9892,100233,Mutiple Chainage
+493,9896,Oak Street - 01,BSC,Urban,Local,41,Sealed,0,41.4382571,Bellingen,41.4382571,5.5,227.910414,1,1981,,176,9896,100237,Mutiple Chainage
+494,9896,Oak Street 01,BSC,Urban,Local,38,Sealed,0,180,Bellingen,180,5.5,990,1,1981,,176,9896,100237,Mutiple Chainage
+494,9896,Oak Street 02,BSC,Urban,Local,38,Sealed,180,359.4479799,Bellingen,179.4479799,11.7,2099.541364,3,1996,,176,9896,100237,Mutiple Chainage
+242,9899,Old Brierfield Road 01,BSC,Rural,Local,84,Sealed,0,650,Fernmount,650,4,2600,1,1968,,467,9899,100241,Mutiple Chainage
+242,9899,Old Brierfield Road 02,BSC,Rural,Local,84,Unsealed,650,2647.990981,Fernmount,1997.990981,4.5,8990.959415,4,1987,,467,9899,100241,Mutiple Chainage
+57,9901,Old Coast Road 01,BSC,Urban,Local,86,Sealed,0,300,Repton,300,6,1800,1,1987,,468,9901,100243,Mutiple Chainage
+266,9900,Old Coast Road 01,BSC,Rural,Local,30,Sealed,0,2010,Dorrigo,2010,3.75,7537.5,3,1998,,180,9900,100242,Mutiple Chainage
+57,9901,Old Coast Road 02,BSC,Urban,Local,86,Sealed,300,580,Repton,280,5,1400,1,1987,,468,9901,100243,Mutiple Chainage
+266,9900,Old Coast Road 02,BSC,Rural,Local,30,Sealed,2010,2610,Dorrigo,600,3.75,2250,1,1998,,180,9900,100242,Mutiple Chainage
+57,9901,Old Coast Road 03,BSC,Urban,Local,86,Unsealed,580,1248.993216,Repton,668.9932159,5,3344.96608,1,1987,,468,9901,100243,Mutiple Chainage
+266,9900,Old Coast Road 03,BSC,Rural,Local,30,Sealed,2610,3260,Dorrigo,650,3.75,2437.5,1,1998,,180,9900,100242,Mutiple Chainage
+266,9900,Old Coast Road 04,BSC,Rural,Local,30,Sealed,3260,4140,Dorrigo,880,3.75,3300,2,1998,,180,9900,100242,Mutiple Chainage
+266,9900,Old Coast Road 05,BSC,Rural,Local,30,Sealed,4140,6440,Dorrigo,2300,3.75,8625,2,1998,,180,9900,100242,Mutiple Chainage
+266,9900,Old Coast Road 06,BSC,Rural,Local,30,Sealed,6440,7095.415792,Dorrigo,655.4157917,3.75,2457.809219,2,1987,,180,9900,100242,Mutiple Chainage
+71,9902,Old Coramba Road North 01,BSC,Rural,Local,73,Sealed,0,740,Dorrigo,740,3.5,2590,3,1998,,469,9902,100244,Mutiple Chainage
+71,9902,Old Coramba Road North 02,BSC,Rural,Local,73,Unsealed,740,2555.131063,Dorrigo,1815.131063,5.5,9983.220849,3,2008,,469,9902,100244,Mutiple Chainage
+496,9903,Old Coramba Road South - 01,BSC,Urban,Local,48,Sealed,0,30.24284659,Dorrigo,30.24284659,3.6,108.8742477,3,1987,,181,9903,100246,Mutiple Chainage
+495,9903,Old Coramba Road South 01,BSC,Urban,Local,44,Sealed,0,700,Dorrigo,700,3.6,2520,3,1987,,181,9903,100246,Mutiple Chainage
+495,9903,Old Coramba Road South 02,BSC,Urban,Local,44,Sealed,700,1641.270512,Dorrigo,941.2705118,3.6,3388.573842,3,1987,,181,9903,100246,Mutiple Chainage
+7,9904,Old Ferry Road 01,BSC,Rural,Local,113,Sealed,0,160,Raleigh,160,3,480,1,1968,,471,9904,100247,Mutiple Chainage
+7,9904,Old Ferry Road 02,BSC,Rural,Local,113,Unsealed,160,799.6422017,Raleigh,639.6422017,4,2558.568807,5,2008,,471,9904,100247,Mutiple Chainage
+502,9905,Old Pacific Highway - Tourist,BSC,Rural,Local,31,Sealed,0,690,Raleigh,690,7,4830,3,1987,,182,9905,100249,Mutiple Chainage
+502,9905,Old Pacific Highway - Tourist,BSC,Rural,Local,31,Sealed,690,765.7978742,Raleigh,75.79787421,7,530.5851195,3,1987,,182,9905,100249,Mutiple Chainage
+201,9905,Old Pacific Highway 01 - Local,BSC,Rural,Local,18,Sealed,0,160,Raleigh,160,7,1120,3,1987,,182,9905,100249,Mutiple Chainage
+201,9905,Old Pacific Highway 01 - Local,BSC,Rural,Local,18,Sealed,160,2018.532008,Raleigh,1858.532008,7,13009.72405,2,1987,,182,9905,100249,Mutiple Chainage
+1,9838,Old Pacific Highway/Keevers Drive - Roundabout,BSC,Rural,Local,5,Sealed,0,100.4946441,Raleigh,100.4946441,7,703.4625085,2,1987,,134,9838,100179,Mutiple Chainage
+356,9906,Orara Street - Roundabout,BSC,Urban,Local,52,Sealed,0,37.18040313,Urunga,37.18040313,6.5,241.6726203,2,#N/A,Width measured from Map,183,9906,100250,Mutiple Chainage
+2563,9906,Orara Street 01,BSC,Urban,Local,34,Sealed,0,160,Urunga,160,11.1,1776,1,1987,,183,9906,100250,Mutiple Chainage
+2563,9906,Orara Street 02,BSC,Urban,Local,34,Sealed,160,541.6358685,Urunga,381.6358685,11.1,4236.158141,2,1987,,183,9906,100250,Mutiple Chainage
+262,10039,Oyster Creek Road 01,BSC,Rural,Local,117,Sealed,0,160,Valla,160,3,480,4,1974,,494,10039,100366,Mutiple Chainage
+262,10039,Oyster Creek Road 02,BSC,Rural,Local,117,Unsealed,160,1102.790259,Valla,942.7902594,3.5,3299.765908,3,2008,,494,10039,100366,Mutiple Chainage
+229,14626,Pacific Motorway,RMS - Other,Urban,Local,N/A,Sealed,0,18515.8214,Valla,18515.8214,,0,,#N/A,,361,14626,100473,Mutiple Chainage
+230,14626,Pacific Motorway,RMS - Other,Urban,Local,N/A,Sealed,0,18513.34781,Valla,18513.34781,,0,,#N/A,,361,14626,100473,Mutiple Chainage
+391,9909,Paddys Plains Road 01,BSC,Rural,Local,39,Sealed,0,1260,North Dorrigo,1260,3,3780,1,1968,,472,9909,100261,Mutiple Chainage
+391,9909,Paddys Plains Road 02,BSC,Rural,Local,39,Sealed,1260,4590,North Dorrigo,3330,3.75,12487.5,2,1968,,472,9909,100261,Mutiple Chainage
+391,9909,Paddys Plains Road 03,BSC,Rural,Local,39,Sealed,4590,4980,North Dorrigo,390,3,1170,2,1968,,472,9909,100261,Mutiple Chainage
+391,9909,Paddys Plains Road 04,BSC,Rural,Local,39,Sealed,4980,5170,North Dorrigo,190,3,570,1,1968,,472,9909,100261,Mutiple Chainage
+391,9909,Paddys Plains Road 05,BSC,Rural,Local,39,Sealed,5170,6221.198383,North Dorrigo,1051.198383,3,3153.595148,1,1968,,472,9909,100261,Mutiple Chainage
+1396,9910,Panorama Parade,BSC,Urban,Local,105,Sealed,0,463.1677913,Urunga,463.1677913,8.7,4029.559784,2,2009,,193,9910,100262,Mutiple Chainage
+1399,9910,Panorama Parade - 01,BSC,Urban,Local,118,Sealed,0,47.70215555,Urunga,47.70215555,8.7,415.0087533,2,2009,,193,9910,100262,Mutiple Chainage
+1397,9910,Panorama Parade - Eastbound,BSC,Urban,Local,112,Sealed,0,116.4206157,Urunga,116.4206157,8.7,1012.859357,2,2009,,193,9910,100262,Mutiple Chainage
+50,13145,Pine Creek Way,BSC,Rural,Local,36,Sealed,0,318.8392787,Repton,318.8392787,11,3507.232065,2,2009,,357,13145,100468,Mutiple Chainage
+134,9916,Pine Street,BSC,Urban,Local,116,Sealed,0,345.8881946,Dorrigo,345.8881946,6.5,2248.273265,1,2009,,201,9916,100270,Mutiple Chainage
+492,9916,Pine Street - 01,BSC,Urban,Local,72,Sealed,0,61.46957196,Dorrigo,61.46957196,4.5,276.6130738,1,2009,,201,9916,100270,Mutiple Chainage
+270,9918,Prices Road 01,BSC,Rural,Local,67,Sealed,0,1980,Deer Vale,1980,3.5,6930,1,1968,,473,9918,100272,Mutiple Chainage
+270,9918,Prices Road 02,BSC,Rural,Local,67,Sealed,1980,2727.359901,Deer Vale,747.3599012,3.5,2615.759654,1,1968,,473,9918,100272,Mutiple Chainage
+2955,9920,Promised Land Road 01,BSC,Rural,Local,28,Sealed,0,560,Gleniffer,560,3.6,2016,2,1998,,203,9920,100273,Mutiple Chainage
+2955,9920,Promised Land Road 02,BSC,Rural,Local,28,Sealed,560,2460,Gleniffer,1900,3.6,6840,3,1998,,203,9920,100273,Mutiple Chainage
+2955,9920,Promised Land Road 03,BSC,Rural,Local,28,Sealed,2460,2760,Gleniffer,300,5,1500,3,2012,,203,9920,100273,Mutiple Chainage
+2955,9920,Promised Land Road 04,BSC,Rural,Local,28,Unsealed,2760,3840,Gleniffer,1080,5,5400,4,2012,,203,9920,100273,Mutiple Chainage
+2955,9920,Promised Land Road 05,BSC,Rural,Local,28,Sealed,3840,4250,Gleniffer,410,5,2050,1,2012,,203,9920,100273,Mutiple Chainage
+2955,9920,Promised Land Road 06,BSC,Rural,Local,28,Sealed,4250,4910,Gleniffer,660,5,3300,1,2008,,203,9920,100273,Mutiple Chainage
+2955,9920,Promised Land Road 07,BSC,Rural,Local,28,Unsealed,4910,6140,Gleniffer,1230,4,4920,3,2008,,203,9920,100273,Mutiple Chainage
+2955,9920,Promised Land Road 08,BSC,Rural,Local,28,Sealed,6140,6250,Gleniffer,110,4,440,4,2008,,203,9920,100273,Mutiple Chainage
+2955,9920,Promised Land Road 09,BSC,Rural,Local,28,Unsealed,6250,8820,Gleniffer,2570,4,10280,3,2008,,203,9920,100273,Mutiple Chainage
+2955,9920,Promised Land Road 10,BSC,Rural,Local,28,Sealed,8820,9130,Gleniffer,310,4.5,1395,1,2012,,203,9920,100273,Mutiple Chainage
+2955,9920,Promised Land Road 11,BSC,Rural,Local,28,Sealed,9130,9420,Gleniffer,290,4.5,1305,1,2012,,203,9920,100273,Mutiple Chainage
+2955,9920,Promised Land Road 12,BSC,Rural,Local,28,Sealed,9420,11284.52315,Gleniffer,1864.523155,3.1,5780.021779,1,1987,,203,9920,100273,Mutiple Chainage
+1402,9924,Railway Street,BSC,Urban,Local,112,Sealed,0,161.4111414,Urunga,161.4111414,9.2,1484.982501,2,1987,,207,9924,100277,Mutiple Chainage
+1403,9924,Railway Street - 01,BSC,Urban,Local,114,Sealed,0,23.14405671,Urunga,23.14405671,9.2,212.9253217,1,1987,,207,9924,100277,Mutiple Chainage
+101,9923,Railway Street 01,BSC,Urban,Local,79,Sealed,0,250,Dorrigo,250,6.6,1650,2,2009,,206,9923,100276,Mutiple Chainage
+101,9923,Railway Street 02,BSC,Urban,Local,79,Sealed,250,717.6750408,Dorrigo,467.6750408,3.6,1683.630147,2,2009,,206,9923,100276,Mutiple Chainage
+173,14626,Raleigh - Off Ramp North,RMS - Other,Urban,Local,N/A,Sealed,0,528.1734766,Raleigh,528.1734766,,0,,#N/A,,361,14626,100473,Mutiple Chainage
+466,14626,Raleigh - Off Ramp South,RMS - Other,Rural,Local,N/A,Sealed,0,519.6759247,Raleigh,519.6759247,,0,,#N/A,,361,14626,100473,Mutiple Chainage
+39,14626,Raleigh - On Ramp North,RMS - Other,Urban,Local,N/A,Sealed,0,685.4710511,Raleigh,685.4710511,,0,,#N/A,,361,14626,100473,Mutiple Chainage
+467,14626,Raleigh - On Ramp South,RMS - Other,Rural,Local,N/A,Sealed,0,724.4581621,Raleigh,724.4581621,,0,,#N/A,,361,14626,100473,Mutiple Chainage
+38,9991,Raleigh Interchange - East,RMS - Other,Urban,Local,N/A,Sealed,0,113.069541,Raleigh,113.069541,,0,,#N/A,,257,9991,100344,Mutiple Chainage
+465,14626,Raleigh Interchange - South,RMS - Other,Rural,Local,N/A,Sealed,0,159.8796788,Raleigh,159.8796788,,0,,#N/A,,361,14626,100473,Mutiple Chainage
+40,9908,Raleigh Interchange - West,RMS - Other,Urban,Local,N/A,Sealed,0,97.34919276,Raleigh,97.34919276,,0,,#N/A,,185,9908,100252,Copied
+1393,9929,Raymond Close,BSC,Urban,Local,112,Sealed,0,190.6018073,Bellingen,190.6018073,8.8,1677.295904,2,2009,,212,9929,100282,Mutiple Chainage
+1392,9929,Raymond Close - 01,BSC,Urban,Local,114,Sealed,0,71.28094751,Bellingen,71.28094751,8.8,627.2723381,2,2009,,212,9929,100282,Mutiple Chainage
+46,9931,Repton Road 01,BSC,Rural,Local,27,Sealed,0,290,Repton,290,4.5,1305,2,2009,,214,9931,100285,Mutiple Chainage
+46,9931,Repton Road 02,BSC,Rural,Local,27,Sealed,290,702,Repton,412,4.5,1854,2,2009,,214,9931,100285,Mutiple Chainage
+435,10127,Richards Road,BSC,Rural,Local,113,Sealed,0,616.9921253,Megan,616.9921253,3,1850.976376,1,1974,,275,10127,100370,Mutiple Chainage
+1368,10127,Richards Road - 01,BSC,Rural,Local,118,Sealed,0,31.4985294,Megan,31.4985294,3,94.49558819,1,1974,,275,10127,100370,Mutiple Chainage
+473,9934,Rigney Drive,BSC,Rural,Local,123,Sealed,0,275.741624,Brierfield,275.741624,6,1654.449744,1,1968,,475,9934,100287,Mutiple Chainage
+472,9934,Rigney Drive - 01,BSC,Rural,Local,125,Sealed,0,63.7494491,Brierfield,63.7494491,6,382.4966946,1,1968,,475,9934,100287,Mutiple Chainage
+273,9935,Ringwood Place,BSC,Urban,Local,112,Sealed,0,214.1564575,Bellingen,214.1564575,6,1284.938745,3,2009,,216,9935,100289,Mutiple Chainage
+1360,9935,Ringwood Place - 01,BSC,Urban,Local,114,Sealed,0,88.45316211,Bellingen,88.45316211,6,530.7189726,3,2009,,216,9935,100289,Mutiple Chainage
+58,9939,River Street 01,BSC,Urban,Local,88,Sealed,0,90,Repton,90,3.8,342,1,2009,,220,9939,100293,Mutiple Chainage
+58,9939,River Street 02,BSC,Urban,Local,88,Sealed,90,321.2845641,Repton,231.2845641,3.8,878.8813434,1,2009,,220,9939,100293,Mutiple Chainage
+271,9943,Rocky Creek Road 01,BSC,Rural,Local,93,Sealed,0,3530,Bielsdown Hills,3530,3.5,12355,1,1968,,477,9943,100297,Mutiple Chainage
+271,9943,Rocky Creek Road 02,BSC,Rural,Local,93,Unsealed,3530,7036.807599,Bielsdown Hills,3506.807599,3.5,12273.8266,3,2008,,477,9943,100297,Mutiple Chainage
+461,9946,Rosedale Drive 01,BSC,Urban,Local,86,Sealed,0,570,Urunga,570,10.8,6156,2,2009,,224,9946,100300,Mutiple Chainage
+461,9946,Rosedale Drive 02,BSC,Urban,Local,86,Sealed,570,1053.572452,Urunga,483.5724523,10.8,5222.582485,2,2009,,224,9946,100300,Mutiple Chainage
+19,9947,Roses Road 01,BSC,Rural,Local,54,Sealed,0,720,Bellingen,720,5,3600,1,1968,,225,9947,100301,Mutiple Chainage
+19,9947,Roses Road 02,BSC,Rural,Local,54,Sealed,720,1230,Bellingen,510,5,2550,1,1968,,225,9947,100301,Mutiple Chainage
+19,9947,Roses Road 03,BSC,Rural,Local,54,Sealed,1230,1830,Bellingen,600,5,3000,1,1968,,225,9947,100301,Mutiple Chainage
+19,9947,Roses Road 04,BSC,Rural,Local,54,Sealed,1830,2060,Bellingen,230,5,1150,1,1968,,225,9947,100301,Mutiple Chainage
+19,9947,Roses Road 05,BSC,Rural,Local,54,Sealed,2060,2600,Bellingen,540,5,2700,3,2012,,225,9947,100301,Mutiple Chainage
+19,9947,Roses Road 06,BSC,Rural,Local,54,Unsealed,2600,3120,Bellingen,520,5,2600,1,2012,,225,9947,100301,Mutiple Chainage
+19,9947,Roses Road 07,BSC,Rural,Local,54,Sealed,3120,4010,Bellingen,890,5,4450,2,2008,,225,9947,100301,Mutiple Chainage
+19,9947,Roses Road 08,BSC,Rural,Local,54,Sealed,4010,4920,Bellingen,910,5,4550,1,2008,,225,9947,100301,Mutiple Chainage
+19,9947,Roses Road 09,BSC,Rural,Local,54,Sealed,4920,5660,Bellingen,740,5,3700,1,1968,,225,9947,100301,Mutiple Chainage
+19,9947,Roses Road 10,BSC,Rural,Local,54,Unsealed,5660,6705.481959,Bellingen,1045.481959,5,5227.409796,2,2008,,225,9947,100301,Mutiple Chainage
+497,9949,Rowley Street,BSC,Urban,Local,101,Sealed,0,258.8137769,Mylestom,258.8137769,7.8,2018.74746,3,2009,,226,9949,100302,Mutiple Chainage
+498,9949,Rowley Street - 01,BSC,Urban,Local,103,Sealed,0,87.6820794,Mylestom,87.6820794,7.8,683.9202194,3,2009,,226,9949,100302,Mutiple Chainage
+32,9951,Schnapper Beach Road 01,BSC,Rural,Local,106,Unsealed,0,370,Urunga,370,3.5,1295,2,2008,,480,9951,100305,Mutiple Chainage
+32,9951,Schnapper Beach Road 02,BSC,Rural,Local,106,Sealed,370,1188.544361,Urunga,818.5443611,5,4092.721806,3,1968,,480,9951,100305,Mutiple Chainage
+153,9952,Scotchman Road 01,BSC,Rural,Local,102,Sealed,0,20,Bellingen,20,8,160,1,2009,,229,9952,100306,Mutiple Chainage
+153,9952,Scotchman Road 02,BSC,Rural,Local,102,Sealed,20,790,Bellingen,770,8,6160,3,2009,,229,9952,100306,Mutiple Chainage
+153,9952,Scotchman Road 03,BSC,Rural,Local,102,Sealed,790,1477.965284,Bellingen,687.9652842,8,5503.722274,2,2009,,229,9952,100306,Mutiple Chainage
+425,9953,Shepherds Road 01,BSC,Rural,Local,46,Sealed,0,1000,Bielsdown Hills,1000,3,3000,1,1968,,481,9953,100307,Mutiple Chainage
+425,9953,Shepherds Road 02,BSC,Rural,Local,46,Sealed,1000,1140,Bielsdown Hills,140,3,420,1,1968,,481,9953,100307,Mutiple Chainage
+425,9953,Shepherds Road 03,BSC,Rural,Local,46,Sealed,1140,1350,Bielsdown Hills,210,3,630,1,1968,,481,9953,100307,Mutiple Chainage
+425,9953,Shepherds Road 04,BSC,Rural,Local,46,Sealed,1350,1670,Bielsdown Hills,320,3,960,1,1968,,481,9953,100307,Mutiple Chainage
+425,9953,Shepherds Road 05,BSC,Rural,Local,46,Sealed,1670,2670,Bielsdown Hills,1000,3,3000,1,1968,,481,9953,100307,Mutiple Chainage
+425,9953,Shepherds Road 06,BSC,Rural,Local,46,Sealed,2670,3200,Bielsdown Hills,530,3,1590,1,1968,,481,9953,100307,Mutiple Chainage
+425,9953,Shepherds Road 07,BSC,Rural,Local,46,Unsealed,3200,6130.515803,Bielsdown Hills,2930.515803,3,8791.54741,2,1987,,481,9953,100307,Mutiple Chainage
+18,9955,Short Cut Road 01,BSC,Rural,Local,24,Sealed,0,330,Urunga,330,6,1980,2,2019,,230,9955,100308,Mutiple Chainage
+18,9955,Short Cut Road 02,BSC,Rural,Local,24,Sealed,330,530,Urunga,200,6,1200,1,2019,,230,9955,100308,Mutiple Chainage
+18,9955,Short Cut Road 03,BSC,Rural,Local,24,Sealed,530,640,Urunga,110,6,660,3,2019,,230,9955,100308,Mutiple Chainage
+18,9955,Short Cut Road 04,BSC,Rural,Local,24,Sealed,640,1210,Urunga,570,6,3420,1,2019,,230,9955,100308,Mutiple Chainage
+18,9955,Short Cut Road 05,BSC,Rural,Local,24,Sealed,1210,1800,Urunga,590,6,3540,2,2019,,230,9955,100308,Mutiple Chainage
+18,9955,Short Cut Road 06,BSC,Rural,Local,24,Sealed,1800,2270,Urunga,470,6,2820,1,2019,,230,9955,100308,Mutiple Chainage
+18,9955,Short Cut Road 07,BSC,Rural,Local,24,Sealed,2270,2535.341423,Urunga,265.3414227,6,1592.048536,2,2019,,230,9955,100308,Mutiple Chainage
+393,9956,Slingsbys Road 01,BSC,Rural,Local,75,Sealed,0,1450,Megan,1450,4,5800,1,1968,,482,9956,100309,Mutiple Chainage
+393,9956,Slingsbys Road 02,BSC,Rural,Local,75,Sealed,1450,2400,Megan,950,4,3800,1,1968,,482,9956,100309,Mutiple Chainage
+393,9956,Slingsbys Road 03,BSC,Rural,Local,75,Sealed,2400,3820,Megan,1420,4,5680,1,1968,,482,9956,100309,Mutiple Chainage
+393,9956,Slingsbys Road 04,BSC,Rural,Local,75,Sealed,3820,4900,Megan,1080,4,4320,1,1968,,482,9956,100309,Mutiple Chainage
+393,9956,Slingsbys Road 05,BSC,Rural,Local,75,Unsealed,4900,5775.916232,Megan,875.9162324,4,3503.66493,1,2012,,482,9956,100309,Mutiple Chainage
+248,9962,South Arm Road 01,BSC,Rural,Local,35,Sealed,0,1690,Urunga,1690,3,5070,1,1968,,484,9962,100315,Mutiple Chainage
+248,9962,South Arm Road 02,BSC,Rural,Local,35,Sealed,1690,2440,Urunga,750,3,2250,1,1968,,484,9962,100315,Mutiple Chainage
+248,9962,South Arm Road 03,BSC,Rural,Local,35,Sealed,2440,4390,Urunga,1950,3,5850,1,1968,,484,9962,100315,Mutiple Chainage
+248,9962,South Arm Road 04,BSC,Rural,Local,35,Sealed,4390,6760,Urunga,2370,3,7110,1,1968,,484,9962,100315,Mutiple Chainage
+248,9962,South Arm Road 05,BSC,Rural,Local,35,Sealed,6760,6860,Urunga,100,3,300,1,1968,,484,9962,100315,Mutiple Chainage
+248,9962,South Arm Road 06,BSC,Rural,Local,35,Sealed,6860,7020,Urunga,160,3,480,4,1968,,484,9962,100315,Mutiple Chainage
+248,9962,South Arm Road 07,BSC,Rural,Local,35,Sealed,7020,9090,Urunga,2070,3,6210,4,1968,,484,9962,100315,Mutiple Chainage
+248,9962,South Arm Road 08,BSC,Rural,Local,35,Sealed,9090,11590,Urunga,2500,3,7500,4,1968,,484,9962,100315,Mutiple Chainage
+248,9962,South Arm Road 09,BSC,Rural,Local,35,Sealed,11590,14052.26675,Urunga,2462.266747,3,7386.800241,4,1968,,484,9962,100315,Mutiple Chainage
+90,9959,South Street 01,BSC,Urban,Local,78,Sealed,0,110,Bellingen,110,3.6,396,1,2009,,232,9959,100312,Mutiple Chainage
+90,9959,South Street 02,BSC,Urban,Local,78,Sealed,110,263.7489823,Bellingen,153.7489823,4.4,676.495522,4,2009,,232,9959,100312,Mutiple Chainage
+234,9964,Summervilles Road 01,BSC,Rural,Local,8,Sealed,0,1730,Gleniffer,1730,4,6920,1,1968,,529,9964,100317,Mutiple Chainage
+234,9964,Summervilles Road 02,BSC,Rural,Local,8,Unsealed,1730,4610,Gleniffer,2880,3,8640,4,1987,,529,9964,100317,Mutiple Chainage
+234,9964,Summervilles Road 03,BSC,Rural,Local,8,Sealed,4610,5010,Gleniffer,400,3,1200,1,1968,,529,9964,100317,Mutiple Chainage
+234,9964,Summervilles Road 04,BSC,Rural,Local,8,Sealed,5010,5790,Gleniffer,780,5,3900,1,1968,,529,9964,100317,Mutiple Chainage
+234,9964,Summervilles Road 05,BSC,Rural,Local,8,Sealed,5790,6350,Gleniffer,560,4.5,2520,1,1987,,529,9964,100317,Mutiple Chainage
+234,9964,Summervilles Road 06,BSC,Rural,Local,8,Sealed,6350,7340,Gleniffer,990,4,3960,1,1968,,529,9964,100317,Mutiple Chainage
+234,9964,Summervilles Road 07,BSC,Rural,Local,8,Sealed,7340,7590,Gleniffer,250,5.5,1375,1,1968,,529,9964,100317,Mutiple Chainage
+234,9964,Summervilles Road 08,BSC,Rural,Local,8,Sealed,7590,7720,Gleniffer,130,5.5,715,1,1968,,529,9964,100317,Mutiple Chainage
+234,9964,Summervilles Road 09,BSC,Rural,Local,8,Sealed,7720,8398.525481,Gleniffer,678.5254809,5.5,3731.890145,1,1968,,529,9964,100317,Mutiple Chainage
+500,9965,Summit Close,BSC,Urban,Local,116,Sealed,0,293.579307,Dorrigo,293.579307,6.5,1908.265496,3,2009,,236,9965,100318,Mutiple Chainage
+499,9965,Summit Close - 01,BSC,Urban,Local,116,Sealed,0,105.0891828,Dorrigo,105.0891828,4,420.3567311,3,2009,,236,9965,100318,Mutiple Chainage
+237,9966,Sunny Corner Road 01,BSC,Rural,Local,59,Sealed,0,1430,Bellingen,1430,3.2,4576,2,1968,,485,9966,100320,Mutiple Chainage
+237,9966,Sunny Corner Road 02,BSC,Rural,Local,59,Sealed,1430,1700,Bellingen,270,3.2,864,2,1968,,485,9966,100320,Mutiple Chainage
+237,9966,Sunny Corner Road 03,BSC,Rural,Local,59,Sealed,1700,1940,Bellingen,240,3.2,768,1,1968,,485,9966,100320,Mutiple Chainage
+237,9966,Sunny Corner Road 04,BSC,Rural,Local,59,Unsealed,1940,3090,Bellingen,1150,3,3450,4,2016,,485,9966,100320,Mutiple Chainage
+237,9966,Sunny Corner Road 05,BSC,Rural,Local,59,Sealed,3090,3210,Bellingen,120,3,360,2,1968,,485,9966,100320,Mutiple Chainage
+237,9966,Sunny Corner Road 06,BSC,Rural,Local,59,Unsealed,3210,3782.087461,Bellingen,572.0874607,3,1716.262382,3,2016,,485,9966,100320,Mutiple Chainage
+154,9839,Sweedmans Lane 01,BSC,Rural,Local,109,Sealed,0,40,Fernmount,40,4.5,180,1,2004,,453,9839,100181,Mutiple Chainage
+154,9839,Sweedmans Lane 02,BSC,Rural,Local,109,Unsealed,40,1058.668335,Fernmount,1018.668335,4.5,4584.007505,4,2004,,453,9839,100181,Mutiple Chainage
+10,9799,Timboon Road 01,BSC,Rural,Local,46,Unsealed,0,6390,Valery,6390,3.2,20448,4,2016,,103,9799,100134,Mutiple Chainage
+10,9799,Timboon Road 02,BSC,Rural,Local,46,Sealed,6390,7030,Valery,640,3.2,2048,1,2008,,103,9799,100134,Mutiple Chainage
+10,9799,Timboon Road 03,BSC,Rural,Local,46,Sealed,7030,7730,Valery,700,3.2,2240,1,2009,,103,9799,100134,Mutiple Chainage
+10,9799,Timboon Road 04,BSC,Rural,Local,46,Sealed,7730,7925.318026,Valery,195.3180259,3.2,625.0176828,3,2008,,103,9799,100134,Mutiple Chainage
+261,9977,Tyringham Road 01,BSC,Rural,Regional,1,Sealed,0,470,Dorrigo,470,6.6,3102,1,1987,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 02,BSC,Rural,Regional,1,Sealed,470,1300,Dorrigo,830,6,4980,1,1998,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 03,BSC,Rural,Regional,1,Sealed,1300,2030,Dorrigo,730,5.7,4161,1,1998,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 04,BSC,Rural,Regional,1,Sealed,2030,3100,Dorrigo,1070,5.7,6099,2,1998,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 05,BSC,Rural,Regional,1,Sealed,3100,4050,Dorrigo,950,7.5,7125,2,2009,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 06,BSC,Rural,Regional,1,Sealed,4050,5120,Dorrigo,1070,7.5,8025,2,2009,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 07,BSC,Rural,Regional,1,Sealed,5120,6220,Dorrigo,1100,5.8,6380,2,1987,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 08,BSC,Rural,Regional,1,Sealed,6220,6880,Dorrigo,660,5.6,3696,2,1987,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 09,BSC,Rural,Regional,1,Sealed,6880,7930,Dorrigo,1050,5.8,6090,2,1987,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 10,BSC,Rural,Regional,1,Sealed,7930,8570,Dorrigo,640,5.6,3584,3,2009,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 11,BSC,Rural,Regional,1,Sealed,8570,9590,Dorrigo,1020,6,6120,1,1987,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 12,BSC,Rural,Regional,1,Sealed,9590,10130,Dorrigo,540,6,3240,1,1987,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 13,BSC,Rural,Regional,1,Sealed,10130,11050,Dorrigo,920,6.1,5612,1,1987,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 14,BSC,Rural,Regional,1,Sealed,11050,12060,Dorrigo,1010,6.1,6161,3,1987,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 15,BSC,Rural,Regional,1,Sealed,12060,12850,Dorrigo,790,5.9,4661,3,1987,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 16,BSC,Rural,Regional,1,Sealed,12850,13480,Dorrigo,630,5.9,3717,3,1987,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 17,BSC,Rural,Regional,1,Sealed,13480,14290,Dorrigo,810,6.1,4941,3,1987,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 18,BSC,Rural,Regional,1,Sealed,14290,15220,Dorrigo,930,6.1,5673,3,1987,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 19,BSC,Rural,Regional,1,Sealed,15220,16050,Dorrigo,830,6,4980,3,1987,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 20,BSC,Rural,Regional,1,Sealed,16050,16850,Dorrigo,800,6,4800,3,1987,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 21,BSC,Rural,Regional,1,Sealed,16850,17540,Dorrigo,690,6.5,4485,1,1987,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 22,BSC,Rural,Regional,1,Sealed,17540,17970,Dorrigo,430,7.5,3225,1,1987,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 23,BSC,Rural,Regional,1,Sealed,17970,18540,Dorrigo,570,7.4,4218,1,1987,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 24,BSC,Rural,Regional,1,Sealed,18540,19140,Dorrigo,600,6.8,4080,1,1987,,486,9977,100331,Mutiple Chainage
+261,9977,Tyringham Road 25,BSC,Rural,Regional,1,Sealed,19140,19797.46154,Dorrigo,657.4615408,6.1,4010.515399,2,1987,,486,9977,100331,Mutiple Chainage
+106,9978,Tyringham Street 01,BSC,Urban,Local,53,Sealed,0,160,Dorrigo,160,5.3,848,2,2009,,248,9978,100332,Mutiple Chainage
+106,9978,Tyringham Street 02,BSC,Urban,Local,53,Sealed,160,446.8113131,Dorrigo,286.8113131,5.3,1520.099959,2,2009,,248,9978,100332,Mutiple Chainage
+82,10592,Unnamed Lane A02 01,BSC,Urban,Local,101,Sealed,0,180,Dorrigo,180,4.5,810,4,1976,,323,10592,100423,Mutiple Chainage
+82,10592,Unnamed Lane A02 02,BSC,Urban,Local,101,Sealed,180,385.173774,Dorrigo,205.173774,4.5,923.2819828,4,1976,,323,10592,100423,Mutiple Chainage
+453,9535,Unnamed Road (James Hickey Close) 01,BSC,Rural,Local,120,Sealed,0,50,Darkwood,50,4,200,4,#N/A,,10,9535,100013,Mutiple Chainage
+453,9535,Unnamed Road (James Hickey Close) 02,BSC,Rural,Local,120,Unsealed,50,187.8406162,Darkwood,137.8406162,4,551.3624648,4,#N/A,,10,9535,100013,Mutiple Chainage
+119,14885,Unnamed Road C41 01,BSC,Rural,Local,112,Sealed,0,90,Raleigh,90,3.9,351,2,2012,,512,14885,100493,Mutiple Chainage
+119,14885,Unnamed Road C41 02,BSC,Rural,Local,112,Unsealed,90,149.1848907,Raleigh,59.18489071,3.9,230.8210738,4,2012,,512,14885,100493,Mutiple Chainage
+163,14885,Unnamed Road C42,BSC,Rural,Local,120,Unsealed,0,155.0524617,Raleigh,155.0524617,3.8,589.1993544,4,2012,,512,14885,100493,Mutiple Chainage
+460,9981,Valery Road 01,BSC,Rural,Local,20,Sealed,0,1960,Raleigh,1960,3.6,7056,1,2019,,487,9981,100335,Mutiple Chainage
+460,9981,Valery Road 02,BSC,Rural,Local,20,Sealed,1960,2200,Raleigh,240,3.6,864,1,2019,,487,9981,100335,Mutiple Chainage
+460,9981,Valery Road 03,BSC,Rural,Local,20,Sealed,2200,2280,Raleigh,80,3.6,288,1,2019,,487,9981,100335,Mutiple Chainage
+460,9981,Valery Road 04,BSC,Rural,Local,20,Sealed,2280,2400,Raleigh,120,3.6,432,1,2019,,487,9981,100335,Mutiple Chainage
+460,9981,Valery Road 05,BSC,Rural,Local,20,Sealed,2400,2520,Raleigh,120,3.6,432,1,2019,,487,9981,100335,Mutiple Chainage
+460,9981,Valery Road 06,BSC,Rural,Local,20,Sealed,2520,3370,Raleigh,850,3.6,3060,1,2019,,487,9981,100335,Mutiple Chainage
+460,9981,Valery Road 07,BSC,Rural,Local,20,Unsealed,3370,5990,Raleigh,2620,3.6,9432,4,2019,,487,9981,100335,Mutiple Chainage
+460,9981,Valery Road 08,BSC,Rural,Local,20,Sealed,5990,6430,Raleigh,440,3.6,1584,1,2019,,487,9981,100335,Mutiple Chainage
+460,9981,Valery Road 09,BSC,Rural,Local,20,Sealed,6430,8080,Raleigh,1650,3.6,5940,1,2019,,487,9981,100335,Mutiple Chainage
+460,9981,Valery Road 10,BSC,Rural,Local,20,Unsealed,8080,10150,Raleigh,2070,3.6,7452,5,2019,,487,9981,100335,Mutiple Chainage
+460,9981,Valery Road 11,BSC,Rural,Local,20,Sealed,10150,11200.8,Raleigh,1050.8,3.6,3782.88,1,2019,,487,9981,100335,Mutiple Chainage
+470,14626,Valla - Off Ramp North,RMS - Other,Rural,Local,N/A,Sealed,0,320.002238,Valla,320.002238,,0,,#N/A,,361,14626,100473,Mutiple Chainage
+468,14626,Valla - Off Ramp South,RMS - Other,Rural,Local,N/A,Sealed,0,401.3965457,Urunga,401.3965457,,0,,#N/A,,361,14626,100473,Mutiple Chainage
+469,14626,Valla - On Ramp North,RMS - Other,Rural,Local,N/A,Sealed,0,385.4701457,Urunga,385.4701457,,0,,#N/A,,361,14626,100473,Mutiple Chainage
+471,14626,Valla - On Ramp South,RMS - Other,Rural,Local,N/A,Sealed,0,330.5625992,Valla,330.5625992,,0,,#N/A,,361,14626,100473,Mutiple Chainage
+108,9988,Vine Street,BSC,Urban,Local,12,Sealed,0,165,Dorrigo,165,4.4,726,3,1987,,535,9988,100340,Mutiple Chainage
+108,9988,Vine Street,BSC,Urban,Regional,12,Sealed,165,773.1478385,Dorrigo,608.1478385,6.3,3831.331383,2,1987,,535,9988,100340,Mutiple Chainage
+383,9989,Walter Street,BSC,Urban,Local,68,Sealed,0,28.11,Raleigh,28.11,3.7,104.007,5,2009,,255,9989,100341,Mutiple Chainage
+1366,9989,Walter Street - 01,BSC,Urban,Local,110,Sealed,0,34.4,Raleigh,34.4,3.7,127.28,1,2009,,255,9989,100341,Mutiple Chainage
+383,9989,Walter Street 02 01,BSC,Urban,Local,69,Sealed,0,330,Raleigh,330,3.7,1221,1,2009,,255,9989,100341,Mutiple Chainage
+383,9989,Walter Street 02 02,BSC,Urban,Local,69,Sealed,330,654,Raleigh,324,3.7,1198.8,3,2009,,255,9989,100341,Mutiple Chainage
+22,9991,Waterfall Way,RMS,Rural,Local,N/A,Sealed,0,11079.31496,Raleigh,11079.31496,,0,,1900,,257,9991,100344,Mutiple Chainage
+96,9991,Waterfall Way,RMS,Rural,Local,N/A,Sealed,0,294.5098043,Raleigh,294.5098043,,0,,1900,,257,9991,100344,Mutiple Chainage
+98,9991,Waterfall Way,RMS,Rural,Local,N/A,Sealed,0,29180.2371,Dorrigo,29180.2371,,0,,1900,,257,9991,100344,Mutiple Chainage
+140,9991,Waterfall Way,RMS,Rural,Local,N/A,Sealed,0,27608.40775,Bellingen,27608.40775,,0,,1900,,257,9991,100344,Mutiple Chainage
+174,9991,Waterfall Way,RMS,Rural,Local,N/A,Sealed,0,99.47101881,Raleigh,99.47101881,,0,,1900,,257,9991,100344,Mutiple Chainage
+72,9992,Watson Street,BSC,Urban,Local,101,Sealed,0,209.9116661,Bellingen,209.9116661,4.4,923.611331,2,2009,,259,9992,100346,Mutiple Chainage
+116,9992,Watson Street,BSC,Urban,Local,105,Sealed,0,304.8257029,Bellingen,304.8257029,8.2,2499.570764,2,2009,,259,9992,100346,Mutiple Chainage
+283,9996,Wheatley Street - Roundabout,BSC,Urban,Local,10,Sealed,0,63.98735644,Bellingen,63.98735644,7.25,463.9083342,2,#N/A,Width measured from map,263,9996,100351,Mutiple Chainage
+2959,9996,Wheatley Street 01,BSC,Urban,Local,3,Sealed,0,560,Bellingen,560,9.6,5376,1,1987,,263,9996,100351,Mutiple Chainage
+2959,9996,Wheatley Street 02,BSC,Urban,Local,3,Sealed,560,910,Bellingen,350,5,1750,1,1987,,263,9996,100351,Mutiple Chainage
+2959,9996,Wheatley Street 03,BSC,Urban,Local,3,Sealed,910,1195.985383,Bellingen,285.9853832,5,1429.926916,1,1987,,263,9996,100351,Mutiple Chainage
+102,9998,Whisky Creek Road 01,BSC,Rural,Local,26,Sealed,0,90,Dorrigo,90,4,360,2,1985,,489,9998,100352,Mutiple Chainage
+102,9998,Whisky Creek Road 02,BSC,Rural,Local,26,Sealed,90,2980,Dorrigo,2890,4,11560,1,1996,,489,9998,100352,Mutiple Chainage
+102,9998,Whisky Creek Road 03,BSC,Rural,Local,26,Sealed,2980,4140,Dorrigo,1160,4,4640,1,1985,,489,9998,100352,Mutiple Chainage
+102,9998,Whisky Creek Road 04,BSC,Rural,Local,26,Sealed,4140,4730,Dorrigo,590,4,2360,1,1985,,489,9998,100352,Mutiple Chainage
+102,9998,Whisky Creek Road 05,BSC,Rural,Local,26,Sealed,4730,6220,Dorrigo,1490,4,5960,1,1985,,489,9998,100352,Mutiple Chainage
+102,9998,Whisky Creek Road 06,BSC,Rural,Local,26,Sealed,6220,6730,Dorrigo,510,4,2040,1,1985,,489,9998,100352,Mutiple Chainage
+102,9998,Whisky Creek Road 07,BSC,Rural,Local,26,Unsealed,6730,11223.15592,Dorrigo,4493.155923,3.5,15726.04573,2,1996,,489,9998,100352,Mutiple Chainage
+501,9999,William Street - 01,BSC,Urban,Local,68,Sealed,0,159.0916771,Bellingen,159.0916771,7,1113.641739,2,1985,,264,9999,100353,Mutiple Chainage
+316,9999,William Street 01,BSC,Urban,Local,98,Sealed,0,180,Bellingen,180,20,3600,2,#N/A,,264,9999,100353,Mutiple Chainage
+316,9999,William Street 02,BSC,Urban,Local,98,Sealed,180,350,Bellingen,170,8.2,1394,2,1996,,264,9999,100353,Mutiple Chainage
+316,9999,William Street 03,BSC,Urban,Local,98,Sealed,350,690,Bellingen,340,9,3060,2,#N/A,,264,9999,100353,Mutiple Chainage
+316,9999,William Street 04,BSC,Urban,Local,98,Sealed,690,833.0720937,Bellingen,143.0720937,9.7,1387.799309,2,1996,,264,9999,100353,Mutiple Chainage
+165,10007,Yellow Rock Road 01,BSC,Rural,Local,93,Sealed,0,270,Urunga,270,3,810,2,2019,,272,10007,100362,Mutiple Chainage
+165,10007,Yellow Rock Road 02,BSC,Rural,Local,93,Sealed,270,680,Urunga,410,3,1230,1,2019,,272,10007,100362,Mutiple Chainage
+165,10007,Yellow Rock Road 03,BSC,Rural,Local,93,Sealed,680,1030,Urunga,350,3,1050,2,2019,,272,10007,100362,Mutiple Chainage
+165,10007,Yellow Rock Road 04,BSC,Rural,Local,93,Sealed,1030,2130,Urunga,1100,3,3300,2,2019,,272,10007,100362,Mutiple Chainage
+165,10007,Yellow Rock Road 05,BSC,Rural,Local,93,Sealed,2130,2880,Urunga,750,3,2250,2,2019,,272,10007,100362,Mutiple Chainage
+165,10007,Yellow Rock Road 06,BSC,Rural,Local,93,Sealed,2880,3200,Urunga,320,3,960,2,2019,,272,10007,100362,Mutiple Chainage
+165,10007,Yellow Rock Road 07,BSC,Rural,Local,93,Sealed,3200,5170,Urunga,1970,3.2,6304,1,2019,,272,10007,100362,Mutiple Chainage
+165,10007,Yellow Rock Road 08,BSC,Rural,Local,93,Sealed,5170,5660,Urunga,490,3.2,1568,1,2019,,272,10007,100362,Mutiple Chainage
+165,10007,Yellow Rock Road 09,BSC,Rural,Local,93,Sealed,5660,6340,Urunga,680,6,4080,1,2019,,272,10007,100362,Mutiple Chainage
+165,10007,Yellow Rock Road 10,BSC,Rural,Local,93,Sealed,6340,7566.833038,Urunga,1226.833038,6,7360.998228,1,2019,,272,10007,100362,Mutiple Chainage
+210,9686,Acacia Drive,BSC,Urban,Local,112,Sealed,0,155.0609895,Urunga,155.0609895,5,775.3049476,2,1985,,16,9686,100020,Copied
+77,9687,Acacia Street,BSC,Urban,Local,108,Sealed,0,302.396986,Dorrigo,302.396986,3,907.1909581,1,1973,,17,9687,100021,Copied
+25,9688,Adams Road,BSC,Rural ,Local,109,Unsealed,0,1314.602437,Gleniffer,1314.602437,3.2,4206.727797,2,2001,,422,9688,100022,Copied
+21,9689,Alex Pike Drive,BSC,Urban,Local,69,Sealed,0,574.600298,Raleigh,574.600298,8,4596.802384,3,1985,,18,9689,100023,Copied
+235,9103,Allans Road,,Rural,Local,106,Unsealed,0,1134.738264,Bellingen,1134.738264,,0,5,1900,,8,9103,100010,Copied
+222,9690,Allison Place,BSC,Urban,Local,112,Sealed,0,259.4468702,Urunga,259.4468702,8.5,2205.298397,2,1985,,19,9690,100024,Copied
+171,9691,Alma Place,BSC,Urban,Local,118,Sealed,0,72.14511995,Urunga,72.14511995,7.6,548.3029116,2,1996,,20,9691,100025,Copied
+,15386,Angophora Crescent,BSC,Urban,Local,,Sealed,0,469.3,Urunga,469.3,6,2815.8,1,#N/A,Width measured from Map,383,15386,100500,Copied
+81,9692,Ash Street,Crown,Urban,Local,57,Sealed,0,445.0702646,Dorrigo,445.0702646,6,2670.421588,1,1987,,21,9692,100026,Copied
+166,9694,Azalea Avenue,BSC,Urban,Local,101,Sealed,0,260.4838934,Mylestom,260.4838934,7.8,2031.774368,3,2009,,23,9694,100028,Copied
+145,11079,Bakers Lane,BSC,Rural,Local,113,Sealed,0,674.1888143,North Dorrigo,674.1888143,3,2022.566443,3,1968,,349,11079,100456,Copied
+99,9701,Bangalow Street,Crown,Urban,Local,45,Sealed,0,340.9012112,Dorrigo,340.9012112,5,1704.506056,1,1996,,26,9701,100032,Copied
+178,9702,Bartletts Road,BSC,Rural,Local,113,Unsealed,0,769.6586878,Dorrigo,769.6586878,3,2308.976063,2,2012,,27,9702,100033,Copied
+265,9703,Basin Road,Crown,Rural,Local,N/A,Unsealed,0,1404.4931,Brierfield,1404.4931,,0,,1900,,28,9703,100034,Copied
+20,9704,Bayldon Drive,BSC,Urban,Local,94,Sealed,0,553.6292121,Raleigh,553.6292121,8,4429.033697,4,1985,,29,9704,100035,Copied
+60,9705,Beach Parade,BSC,Urban,Local,40,Sealed,0,669.0789922,Mylestom,669.0789922,8.5,5687.171434,1,2009,,30,9705,100036,Copied
+100,9706,Bean Street,BSC,Urban,Local,68,Sealed,0,217.2003262,Dorrigo,217.2003262,4.5,977.4014679,2,2009,,31,9706,100037,Copied
+87,9708,Beech Street,BSC,Urban,Local,58,Sealed,0,596.1491198,Dorrigo,596.1491198,6.2,3696.124543,3,2009,,33,9708,100039,Copied
+199,11425,Bennett Road,BSC,Rural,Local,123,Sealed,0,197.0255964,Fernmount,197.0255964,3,591.0767891,3,1968,,508,11425,100459,Copied
+132,10232,Berry Street,BSC,Urban,Local,108,Unsealed,0,132.2644319,Dorrigo,132.2644319,3,396.7932956,2,2008,,278,10232,100373,Copied
+438,9712,Beverleys Road,BSC,Rural,Local,96,Unsealed,0,2728.082051,Megan,2728.082051,3.7,10093.90359,3,2008,,36,9712,100043,Copied
+130,9713,Bielsdown Street,BSC,Urban,Local,53,Sealed,0,358.7779532,Dorrigo,358.7779532,19.4,6960.292291,1,1992,,37,9713,100045,Copied
+439,10428,Bishops Creek Road,BSC,Rural,Local,117,Unsealed,0,983.9212647,Darkwood,983.9212647,3,2951.763794,4,2012,,499,10428,100387,Copied
+290,9715,Black Street,BSC,Urban,Local,78,Sealed,0,191.2530319,Bellingen,191.2530319,5.4,1032.766372,3,1987,,38,9715,100047,Copied
+205,9716,Blackbutt Avenue,BSC,Urban,Local,101,Sealed,0,291.5078815,Repton,291.5078815,5.6,1632.444136,2,1985,,39,9716,100048,Copied
+110,9718,Blue Hills Road,BSC,Rural,Local,117,Unsealed,0,1138.228021,Deer Vale,1138.228021,3,3414.684064,2,2001,,426,9718,100049,Copied
+259,9719,Boggy Creek Road,BSC,Rural,Local,56,Unsealed,0,4924.766901,Bellingen,4924.766901,6,29548.60141,4,2001,,427,9719,100050,Copied
+94,9721,Boronia Avenue,BSC,Urban,Local,88,Sealed,0,284.8047607,Mylestom,284.8047607,7.8,2221.477133,3,2014,,41,9721,100053,Copied
+421,9722,Borra Creek Road,BSC,Rural,Local,123,Unsealed,0,373.2957657,Fernbrook,373.2957657,3.5,1306.53518,2,2001,,428,9722,100054,Copied
+315,9723,Bowra Street,BSC,Urban,Local,45,Sealed,0,309.5999729,Bellingen,309.5999729,6.8,2105.279816,3,1987,,42,9723,100055,Copied
+198,10425,Bowra Street Lane,BSC,Urban,Local,101,Sealed,0,164.9321451,Bellingen,164.9321451,4,659.7285803,4,2009,,288,10425,100385,Copied
+195,10014,Bridge Street,BSC,Urban,Local,9,Sealed,0,248.3411595,Bellingen,248.3411595,5.5,1365.876377,2,1981,,492,10014,100364,Copied
+264,9728,Briggenshaws Road,BSC,Rural,Local,117,Unsealed,0,519.1523931,Valery,519.1523931,3.6,1868.948615,3,2016,,431,9728,100060,Copied
+324,9730,Briner Street,BSC,Urban,Local,101,Sealed,0,183.3028228,Bellingen,183.3028228,3.6,659.890162,2,1968,,46,9730,100062,Copied
+13,10639,Brutons Road,BSC,Rural,Local,117,Unsealed,0,685.6119649,Raleigh,685.6119649,3,2056.835895,4,2012,,502,10639,100432,Copied
+239,9732,Buffer Creek Road,BSC,Rural,Local,106,Unsealed,0,1742.702682,Gleniffer,1742.702682,4.5,7842.162069,3,2004,,432,9732,100063,Copied
+330,9733,Burrawong Parade,BSC,Urban,Local,97,Sealed,0,439.547222,Urunga,439.547222,10.8,4747.109998,2,2009,,47,9733,100064,Copied
+162,9735,Cabbage Tree Close,BSC,Urban,Local,116,Sealed,0,167.1279217,Repton,167.1279217,5.6,935.9163617,3,1974,,48,9735,100066,Copied
+306,9736,Cahill Street,BSC,Urban,Local,110,Sealed,0,65.74072178,Bellingen,65.74072178,5.6,368.148042,2,1968,,49,9736,100067,Copied
+449,14886,Capararos Road,BSC,Rural,Local,101,Unsealed,0,325.49834,Valery,325.49834,3,976.4950201,5,2004,,514,14886,100495,Copied
+474,9737,Caseys Lane,BSC,Urban,Local,108,Sealed,0,326.5134425,Bellingen,326.5134425,3.8,1240.751081,1,1987,,50,9737,100068,Copied
+,16128,Cassia Close,BSC,Urban,Local,,Sealed,0,54.2,Dorrigo,54.2,6.5,352.3,1,#N/A,Width measured from Map,389,16128,100507,Copied
+276,9740,Cedar Court,BSC,Urban,Local,112,Sealed,0,126.8094198,Bellingen,126.8094198,6,760.856519,2,1977,,55,9740,100073,Copied
+401,11059,Cemetary Road,BSC,Urban,Local,121,Sealed,0,500.5762659,Urunga,500.5762659,3.6,1802.074557,3,2009,,507,11059,100453,Copied
+403,10432,Charlie Smith Lane,Private,Rural,Local,N/A,Sealed,0,230.247332,Bellingen,230.247332,,0,,1900,,291,10432,100390,Copied
+59,9742,Christian Parade,BSC,Urban,Local,43,Sealed,0,250.4320565,Mylestom,250.4320565,9,2253.888509,1,1985,,56,9742,100074,Copied
+340,9743,Christine Close,BSC,Urban,Local,116,Sealed,0,123.0989324,Urunga,123.0989324,7.9,972.4815663,2,1996,,57,9743,100075,Copied
+76,10235,Church Street,BSC,Urban,Local,101,Sealed,0,308.6600302,North Dorrigo,308.6600302,3.5,1080.310106,1,1985,,279,10235,100374,Copied
+147,9745,Clarks Road,BSC,Rural,Local,104,Sealed,0,2431.472611,Deer Vale,2431.472611,3,7294.417833,2,1974,,60,9745,100079,Copied
+291,9746,Clothier Road,BSC,Rural,Local,112,Sealed,0,240.1415138,Bellingen,240.1415138,3,720.4245414,2,1976,,434,9746,100080,Copied
+175,10884,Cofton Close,BSC,Urban,Local,116,Sealed,0,269.3036031,Dorrigo,269.3036031,7,1885.125222,2,1998,,336,10884,100440,Copied
+399,11036,Comries Road,BSC,Rural,Local,123,Unsealed,0,428.5654018,Fernbrook,428.5654018,3.5,1499.978906,2,2012,,339,11036,100443,Copied
+294,9749,Connell Place,BSC,Urban,Local,116,Sealed,0,105.6712759,Bellingen,105.6712759,8.1,855.937335,2,1987,,62,9749,100082,Copied
+416,9752,Corks Road,BSC,Rural,Local,121,Unsealed,0,1938.366172,Deer Vale,1938.366172,3,5815.098517,2,2004,,436,9752,100085,Copied
+325,9753,Coronation Place,BSC,Urban,Local,114,Sealed,0,40.7600922,Bellingen,40.7600922,7.7,313.8527099,4,1987,,64,9753,100086,Copied
+320,9754,Coronation Street,BSC,Urban,Local,98,Sealed,0,512.9623836,Bellingen,512.9623836,6.4,3282.959255,2,1981,,65,9754,100087,Copied
+27,12964,Crawford Close,BSC,Urban,Local,126,Sealed,0,180.2985591,Hydes Creek,180.2985591,7,1262.089914,1,2009,,510,12964,100467,Copied
+371,9755,Crescent Close,BSC,Urban,Local,116,Sealed,0,156.700215,Urunga,156.700215,3.3,517.1107094,2,1973,,66,9755,100088,Copied
+95,9756,Crescent Street,BSC,Urban,Local,105,Sealed,0,299.3776598,Urunga,299.3776598,7.9,2365.083512,2,1967,,67,9756,100089,Copied
+365,9757,Crescent Street East,BSC,Urban,Local,92,Sealed,0,268.8232692,Urunga,268.8232692,8.5,2284.997789,3,1996,,68,9757,100090,Copied
+158,9758,Cross Street,BSC,Urban,Local,101,Sealed,0,153.7098123,Fernmount,153.7098123,3.6,553.3553243,4,1996,,69,9758,100091,Copied
+183,9762,Cypress Street,Crown,Urban,Local,63,Sealed,0,297.6715431,Dorrigo,297.6715431,5.6,1666.960642,2,2009,,73,9762,100096,Copied
+410,9764,Darley and Bains Road,BSC,Rural,Local,123,Unsealed,0,490.6509032,North Dorrigo,490.6509032,3.2,1570.08289,2,2008,,438,9764,100098,Copied
+268,10819,Darlingia Place,BSC,Urban,Local,118,Sealed,0,77.02028801,Bellingen,77.02028801,4,308.0811521,2,2009,,334,10819,100438,Copied
+432,9765,Davidsons Road,BSC,Rural,Local,119,Unsealed,0,2117.78805,Tallowwood Ridge,2117.78805,4.3,9106.488616,3,2012,,439,9765,100099,Copied
+121,11567,Doepel Street,BSC,Urban,Local,63,Sealed,0,159.0916832,Mylestom,159.0916832,7.8,1240.915129,3,1985,,352,11567,100462,Copied
+307,9769,Doepel Street,BSC,Urban,Local,112,Sealed,0,169.935896,Bellingen,169.935896,5.4,917.6538386,2,1985,,78,9769,100105,Copied
+126,10423,Dolphin Court,BSC,Urban,Local,114,Sealed,0,97.92135804,Urunga,97.92135804,3,293.7640741,2,2009,,286,10423,100383,Copied
+1755,15113,Driscoll Close,BSC,Urban,Local,112,Sealed,0,146.8439186,Bellingen,146.8439186,6.1,895.7479036,1,2009,,381,15113,100497,Copied
+350,9774,Dudley Street,BSC,Urban,Local,108,Sealed,0,65.80092898,Urunga,65.80092898,3.8,250.0435301,5,1973,,82,9774,100110,Copied
+338,9775,Elizabeth Drive,BSC,Urban,Local,116,Sealed,0,246.4636717,Urunga,246.4636717,9.9,2439.99035,2,1974,,83,9775,100111,Copied
+380,9776,Elizabeth Street,BSC,Urban,Local,108,Unsealed,0,120.8378249,Raleigh,120.8378249,4,483.3512996,5,2009,,84,9776,100112,Copied
+74,9777,Elk Avenue,BSC,Urban,Local,106,Sealed,0,765.0869777,Repton,765.0869777,5.6,4284.487075,2,1968,,85,9777,100113,Copied
+285,9537,Elliot Close,BSC,Urban,Local,92,Sealed,0,242.3131856,Bellingen,242.3131856,7.4,1793.117573,1,2014,,11,9537,100014,Copied
+213,9778,Elliston Lane,BSC,Urban,Local,110,Sealed,0,83.43885407,Urunga,83.43885407,2.5,208.5971352,1,1977,,86,9778,100114,Copied
+144,9779,Elm Avenue,BSC,Urban,Local,65,Sealed,0,645.755526,Dorrigo,645.755526,3,1937.266578,2,1968,,87,9779,100115,Copied
+299,9781,Endeavour Drive,BSC,Urban,Local,106,Sealed,0,619.575487,Bellingen,619.575487,8,4956.603896,2,1987,,89,9781,100117,Copied
+345,9782,Essex Court,BSC,Urban,Local,110,Sealed,0,35.12420925,Urunga,35.12420925,12.3,432.0277737,1,1998,,90,9782,100118,Copied
+263,9783,Evans Street,BSC,Urban,Local,108,Sealed,0,169.9401426,Bellingen,169.9401426,5.2,883.6887415,1,1966,,91,9783,100119,Copied
+430,9784,Everinghams Road,BSC,Rural,Local,121,Unsealed,0,1313.360707,Dorrigo Mountain,1313.360707,3.5,4596.762476,2,2008,,442,9784,100120,Copied
+327,11060,Fern Street,BSC,Urban,Local,107,Sealed,0,58.45481058,Dorrigo,58.45481058,5.5,321.5014582,1,2009,,347,11060,100454,Copied
+250,10435,Fernridge Lane,BSC,Rural,Local,123,Sealed,0,191.831801,Bellingen,191.831801,3,575.495403,2,1968,,500,10435,100393,Copied
+225,9786,Ferry Street,BSC,Urban,Local,33,Sealed,0,130.3590965,Urunga,130.3590965,10,1303.590965,1,1968,,93,9786,100122,Copied
+190,667,Figwood Drive,BSC,Urban,Local,74,Sealed,0,186.7941959,Bellingen,186.7941959,7.5,1400.956469,2,1968,,1,667,100001,Copied
+42,9790,Forest Drive,BSC,Urban,Local,86,Sealed,0,1129.044349,Repton,1129.044349,4.5,5080.699569,2,1976,,95,9790,100124,Copied
+281,9791,Foster Close,BSC,Urban,Local,118,Sealed,0,42.87114227,Bellingen,42.87114227,15,643.067134,2,#N/A,Width measured from Map,96,9791,100125,Copied
+240,9792,Freida Hicks Drive,BSC,Rural,Local,121,Sealed,0,989.1684731,Gleniffer,989.1684731,4.5,4451.258129,3,1969,,526,9792,100126,Copied
+390,14787,Gangara Avenue,Private,Urban,Local,N/A,Sealed,0,154.4,Dorrigo,154.4,5.4,833.76,,2009,,377,14787,100489,Copied
+301,9796,George Hewitt Close,BSC,Urban,Local,116,Sealed,0,143.4839815,Bellingen,143.4839815,8.2,1176.568648,2,1998,,101,9796,100131,Copied
+312,9797,George Moore Lane,BSC,Urban,Local,105,Sealed,0,187.3576149,Bellingen,187.3576149,3.5,655.7516521,1,1966,,443,9797,100132,Copied
+93,9795,George Street,BSC,Urban,Local,88,Sealed,0,121.4152775,Mylestom,121.4152775,7.5,910.614581,3,1985,,100,9795,100130,Copied
+12,11037,Godings Road,BSC,Rural,Local,117,Unsealed,0,856.5325175,Gleniffer,856.5325175,3.6,3083.517063,2,2012,,505,11037,100444,Copied
+3,9800,Gordon Road,BSC,Rural,Local,123,Sealed,0,405.7144213,Raleigh,405.7144213,4,1622.857685,1,2003,,104,9800,100135,Copied
+441,10888,Gossips Road,BSC,Rural,Local,117,Unsealed,0,603.7693635,Urunga,603.7693635,3.2,1932.061963,5,2012,,532,10888,100441,Copied
+389,11468,Gravel Pit Road,BSC,Rural,Local,126,Unsealed,0,354.5262102,Bellingen,354.5262102,3,1063.578631,2,2008,,509,11468,100460,Copied
+206,9802,Grevillea Avenue,BSC,Urban,Local,101,Sealed,0,161.0400312,Mylestom,161.0400312,7.8,1256.112243,3,1974,,105,9802,100137,Copied
+120,9804,Gurney Street,BSC,Urban,Local,79,Sealed,0,717.848871,Raleigh,717.848871,4,2871.395484,1,1979,,107,9804,100139,Copied
+442,9805,Hains Lane,BSC,Rural,Local,120,Sealed,0,219.148486,Brierfield,219.148486,3,657.4454579,5,2008,,444,9805,100140,Copied
+191,10570,Halpins Lane,BSC,Urban,Local,85,Sealed,0,191.8286737,Bellingen,191.8286737,3,575.4860212,5,2009,,309,10570,100409,Copied
+408,9808,Harness Cask Road,BSC,Rural,Local,89,Unsealed,0,6411.051074,Bostobrick,6411.051074,3.7,23720.88897,3,2001,,446,9808,100146,Copied
+415,10786,Harveys Road,BSC,Rural,Local,55,Unsealed,0,989.5550581,Deer Vale,989.5550581,4,3958.220232,2,2012,,333,10786,100437,Copied
+236,10236,Hayden Street,BSC,Urban,Local,76,Sealed,0,608.5347928,North Dorrigo,608.5347928,3.5,2129.871775,1,1967,,280,10236,100375,Copied
+197,9810,Henry Boultwood Drive,BSC,Urban,Local,109,Sealed,0,707.3559727,Fernmount,707.3559727,5.6,3961.193447,2,1996,,112,9810,100148,Copied
+370,9812,High Street,BSC,Urban,Local,83,Sealed,0,651.5321939,Urunga,651.5321939,7.9,5147.104332,3,1968,,113,9812,100153,Copied
+192,9813,Hill Street,BSC,Urban,Local,88,Sealed,0,369.4611574,Bellingen,369.4611574,4,1477.844629,1,1992,,114,9813,100154,Copied
+267,10820,Hilliana Close,BSC,Urban,Local,118,Sealed,0,61.68377724,Bellingen,61.68377724,4,246.7351089,2,2009,,335,10820,100439,Copied
+287,9538,Hobson Close,BSC,Urban,Local,116,Sealed,0,219.3335865,Bellingen,219.3335865,7,1535.335105,2,1998,,12,9538,100015,Copied
+228,9816,Hollis Close,BSC,Urban,Local,116,Sealed,0,175.8863276,Urunga,175.8863276,5.3,932.1975364,2,1974,,117,9816,100157,Copied
+208,9817,Honeysuckle Place,BSC,Urban,Local,112,Sealed,0,242.9971057,Mylestom,242.9971057,6.3,1530.881766,3,1985,,118,9817,100158,Copied
+187,9819,Hudsons Road,BSC,Rural,Local,121,Unsealed,0,1411.691913,Megan,1411.691913,3.5,4940.921696,2,2004,,449,9819,100160,Copied
+207,9821,Hunter Street,BSC,Urban,Local,108,Sealed,0,141.3816297,Repton,141.3816297,3,424.1448892,3,1996,,121,9821,100162,Copied
+15,9562,Hyde Street,RMS,Urban,Local,N/A,Sealed,0,655.3156399,Bellingen,655.3156399,,0,,1900,,14,9562,100018,Copied
+105,9825,Hydro Street,BSC,Urban,Local,108,Sealed,0,140.5255587,Dorrigo,140.5255587,5.2,730.7329051,3,1996,,124,9825,100165,Copied
+249,13644,Ironbark Place,BSC,Urban,Local,116,Sealed,0,127.8659911,Bellingen,127.8659911,5,639.3299557,2,2009,,360,13644,100472,Copied
+420,11038,Jackass Creek Road,BSC,Rural,Local,117,Unsealed,0,1293.024541,Fernbrook,1293.024541,3.5,4525.585893,2,2012,,506,11038,100445,Copied
+455,9828,Jackwood Road,RMS - Other,Rural,Local,N/A,Sealed,0,244.9020457,Valla,244.9020457,6.2,1518.392683,1,2009,,128,9828,100169,Copied
+89,9829,Jagera Drive,BSC,Urban,Local,55,Sealed,0,537.5464384,Bellingen,537.5464384,5,2687.732192,2,1968,,129,9829,100170,Copied
+385,10431,James Eather Way,BSC,Urban,Local,108,Sealed,0,214.3241131,Bellingen,214.3241131,3,642.9723393,3,2001,,290,10431,100389,Copied
+339,9830,Jean Close,BSC,Urban,Local,118,Sealed,0,59.59866097,Urunga,59.59866097,7.8,464.8695555,2,1976,,130,9830,100171,Copied
+159,10327,Joeliza Drive,BSC,Urban,Local,109,Sealed,0,638.9942486,Repton,638.9942486,5.5,3514.468368,2,1973,,285,10327,100381,Copied
+397,9832,John Locke Place,BSC,Rural,Local,121,Sealed,0,506.5096354,Gleniffer,506.5096354,3.2,1620.830833,3,1996,,451,9832,100173,Copied
+161,9834,Johnson Avenue,BSC,Urban,Local,57,Sealed,0,196.6749996,Mylestom,196.6749996,7.8,1534.064997,3,2007,,131,9834,100175,Copied
+172,11553,Jordan Road,BSC,Rural,Local,116,Sealed,0,341.1854006,Bellingen,341.1854006,3,1023.556202,2,1968,,351,11553,100461,Copied
+,15809,Jugiil Close,Private,Rural,Local,N/A,Sealed,0,241.8,Bellingen,241.8,,0,,#N/A,,387,15809,100505,Copied
+186,9836,Karabin Street,RMS,Urban,Local,N/A,Sealed,0,936.2162664,Dorrigo,936.2162664,7.6,7115.243624,,1900,,132,9836,100177,Copied
+343,9837,Karen Street,BSC,Urban,Local,118,Sealed,0,71.77326069,Urunga,71.77326069,8.9,638.7820201,1,1974,,133,9837,100178,Copied
+326,9841,Kethels Road,BSC,Rural,Local,102,Unsealed,0,1099.205944,Hydes Creek,1099.205944,3,3297.617832,5,2008,,454,9841,100183,Copied
+280,9842,Kilborne Close,BSC,Urban,Local,118,Sealed,0,44.18778082,Bellingen,44.18778082,6,265.1266849,2,1974,,137,9842,100184,Copied
+152,10434,Kimber Close,BSC,Urban,Local,118,Sealed,0,45.69280335,Bellingen,45.69280335,4,182.7712134,2,2009,,293,10434,100392,Copied
+138,10586,Kurrajong Lane,BSC,Urban,Local,105,Sealed,0,316.2211989,Dorrigo,316.2211989,3.4,1075.152076,2,1987,,319,10586,100419,Copied
+341,9844,Kylie Street,BSC,Urban,Local,116,Sealed,0,143.3911928,Urunga,143.3911928,7.8,1118.451304,1,1992,,139,9844,100186,Copied
+333,10433,Lake Court,BSC,Urban,Local,105,Sealed,0,360.8507815,Urunga,360.8507815,3,1082.552344,2,2009,,292,10433,100391,Copied
+245,9845,Langtons Road,BSC,Rural,Local,94,Unsealed,0,1824.057356,Deer Vale,1824.057356,3,5472.172068,3,2012,,455,9845,100187,Copied
+64,9102,Lilly Pilly Place,BSC,Urban,Local,118,Sealed,0,38.14247996,Bellingen,38.14247996,5,190.7123998,2,1974,,7,9102,100009,Copied
+450,11032,Little Hydes Creek Road,BSC,Rural,Local,77,Unsealed,0,4040.450728,Hydes Creek,4040.450728,3,12121.35218,2,2012,,338,11032,100442,Copied
+446,9963,Logans Road,Crown,Rural,Local,120,Unsealed,0,314.282973,Valla,314.282973,3.5,1099.990405,,2008,,235,9963,100316,Copied
+367,9847,Lourdes Avenue,BSC,Urban,Local,101,Sealed,0,261.924859,Urunga,261.924859,7.4,1938.243957,1,1968,,140,9847,100189,Copied
+314,9848,Lovell Street,BSC,Urban,Local,33,Sealed,0,275.4783462,Bellingen,275.4783462,9.6,2644.592123,3,1998,,141,9848,100190,Copied
+56,11054,Lucas Avenue,BSC,Urban,Local,116,Sealed,0,148.8026059,Bellingen,148.8026059,6.1,907.6958959,2,2009,,344,11054,100450,Copied
+41,9851,Lyon Street,BSC,Urban,Local,94,Sealed,0,1150.352729,Repton,1150.352729,6,6902.116374,2,2009,,143,9851,100193,Copied
+194,9850,Lyon Street,BSC,Urban,Local,44,Sealed,0,740.9553102,Bellingen,740.9553102,10.8,8002.31735,4,2009,,142,9850,100192,Copied
+418,11039,M Rees Road,BSC,Rural,Local,121,Unsealed,0,643.9269513,Deer Vale,643.9269513,3,1931.780854,2,2012,,340,11039,100446,Copied
+258,9852,Mahers Road,BSC,Rural,Local,106,Sealed,0,1443.94012,Bellingen,1443.94012,4,5775.76048,3,2008,,458,9852,100194,Copied
+35,9853,Mahogany Street,BSC,Urban,Local,74,Sealed,0,156.7056802,Dorrigo,156.7056802,4.3,673.8344249,1,1998,,144,9853,100195,Copied
+427,9855,Majors Road,BSC,Rural,Local,121,Unsealed,0,788.6544605,Dorrigo Mountain,788.6544605,3,2365.963381,2,2012,,459,9855,100196,Copied
+211,9856,Marina Crescent,BSC,Urban,Local,116,Sealed,0,234.8560742,Urunga,234.8560742,16.6,3898.610832,1,1985,,145,9856,100197,Copied
+335,9857,Marshall Place,BSC,Urban,Local,114,Sealed,0,95.7262213,Urunga,95.7262213,7.7,737.091904,2,1974,,146,9857,100198,Copied
+444,9859,Martin Road,BSC,Rural,Local,106,Sealed,0,506.7113221,Bellingen,506.7113221,5,2533.556611,2,1966,,148,9859,100200,Copied
+241,9860,Marx Hill Road,BSC,Rural,Local,117,Sealed,0,584.7437619,Fernmount,584.7437619,3,1754.231286,1,2001,,460,9860,100201,Copied
+112,9861,Mary Street,BSC,Urban,Local,85,Sealed,0,188.1044165,Bellingen,188.1044165,9.3,1749.371073,3,1969,,149,9861,100202,Copied
+387,9863,Maydwell Street,BSC,Urban,Local,123,Sealed,0,204.6211618,Fernmount,204.6211618,4,818.484647,2,1968,,150,9863,100203,Copied
+388,10655,McBaron Road,BSC,Rural,Local,123,Unsealed,0,373.1099463,Raleigh,373.1099463,3,1119.329839,4,2008,,331,10655,100434,Copied
+218,9866,McDougall Place,BSC,Urban,Local,109,Sealed,0,530.9071019,Fernmount,530.9071019,5.6,2973.079771,2,1977,,153,9866,100206,Copied
+63,11997,McLaughan Avenue,BSC,Urban,Local,118,Sealed,0,94.94642189,Bellingen,94.94642189,6.5,617.1517423,2,2009,,353,11997,100463,Copied
+8,13192,McLean Drive,BSC,Urban,Local,116,Sealed,0,350.2426262,Bellingen,350.2426262,7.05,2469.210515,2,2009,,511,13192,100471,Copied
+332,10430,Melaleuca Place,BSC,Urban,Local,116,Sealed,0,114.7871148,Urunga,114.7871148,3,344.3613444,1,2009,,289,10430,100388,Copied
+275,9870,Melia Place,BSC,Urban,Local,112,Sealed,0,111.466928,Bellingen,111.466928,8.2,914.0288097,2,1977,,156,9870,100211,Copied
+305,11080,Mill Street,BSC,Urban,Local,112,Sealed,0,129.1834204,Bellingen,129.1834204,3,387.5502611,2,2009,,350,11080,100457,Copied
+29,9871,Misty Close,BSC,Urban,Local,112,Sealed,0,290.9825826,Raleigh,290.9825826,5,1454.912913,3,1977,,157,9871,100212,Copied
+409,9872,Moonpar Road,BSC,Rural,Local,91,Unsealed,0,3280.356136,Bostobrick,3280.356136,3.5,11481.24648,2,2004,,462,9872,100213,Copied
+429,9877,Mountain Top Road,BSC,Rural,Local,49,Sealed,0,3042.03498,Dorrigo Mountain,3042.03498,3,9126.104939,2,1971,,463,9877,100219,Copied
+344,9878,Mountview Crescent,BSC,Urban,Local,105,Sealed,0,233.1280736,Urunga,233.1280736,7.8,1818.398974,1,1975,,162,9878,100220,Copied
+331,9880,Myall Court,BSC,Urban,Local,118,Sealed,0,65.62771842,Urunga,65.62771842,8,525.0217473,1,2009,,163,9880,100222,Copied
+45,9881,Mylestom Drive,BSC,Rural,Local,4,Sealed,0,4550.224044,Mylestom,4550.224044,5,22751.12022,2,1973,,164,9881,100223,Copied
+224,9883,Nambucca Street,BSC,Urban,Local,110,Sealed,0,90.65772603,Urunga,90.65772603,3.5,317.3020411,4,2009,,166,9883,100225,Copied
+422,9885,Neaves Road,BSC,Rural,Local,117,Unsealed,0,787.586949,Fernbrook,787.586949,3.5,2756.554322,2,2001,,168,9885,100227,Copied
+451,14887,Never Never Creek Road,Forestry,Rural,Local,N/A,Unsealed,0,988.4794385,Gleniffer,988.4794385,4.1,4052.765698,,2001,,380,14887,100496,Copied
+169,9886,Newry Street,BSC,Urban,Local,29,Sealed,0,246.97499,Urunga,246.97499,9.6,2370.959904,1,2019,,169,9886,100228,Copied
+402,9889,Nicholson Street,BSC,Rural,Local,121,Unsealed,0,579.3818469,Fernmount,579.3818469,4,2317.527388,5,2012,,465,9889,100230,Copied
+123,9893,North Street,BSC,Urban,Local,105,Sealed,0,93.10655975,Urunga,93.10655975,4.8,446.9114868,2,1974,,173,9893,100234,Copied
+179,9891,North Street,BSC,Urban,Local,61,Sealed,0,168.8150657,Dorrigo,168.8150657,4.9,827.1938219,3,1974,,171,9891,100232,Copied
+255,9895,Northcote Street,BSC,Urban,Local,92,Sealed,0,198.5218391,Bellingen,198.5218391,4.2,833.7917241,2,1996,,175,9895,100236,Copied
+136,9897,Oak Street,BSC,Urban,Local,70,Sealed,0,472.4583564,Dorrigo,472.4583564,6.5,3070.979317,1,2009,,178,9897,100239,Copied
+374,9898,Odalberree Drive,BSC,Urban,Local,105,Sealed,0,426.9234024,Urunga,426.9234024,7,2988.463816,2,2009,,179,9898,100240,Copied
+167,9635,Old Punt Road,BSC,Rural,Local,116,Sealed,0,249.7688617,Urunga,249.7688617,5.8,1448.659398,1,1974,,15,9635,100019,Copied
+454,3128,Orama Road,BSC,Rural,Local,114,Unsealed,0,74.15141384,Darkwood,74.15141384,4,296.6056554,5,2016,,418,3128,100002,Copied
+33,9907,Osprey Drive,BSC,Rural,Local,87,Sealed,0,2289.563334,Urunga,2289.563334,6.2,14195.29267,2,1968,,184,9907,100251,Copied
+412,10035,Parberrys Lane,BSC,Rural,Local,124,Sealed,0,655.3599079,Dorrigo,655.3599079,3.6,2359.295668,2,2009,,493,10035,100365,Copied
+309,9911,Park Street,BSC,Urban,Local,33,Sealed,0,447.2707391,Bellingen,447.2707391,8.2,3667.620061,3,2009,,196,9911,100265,Copied
+177,9912,Parkes Street,BSC,Urban,Local,74,Sealed,0,259.5454199,Dorrigo,259.5454199,4.9,1271.772557,3,2009,,197,9912,100266,Copied
+78,13151,Perrys Lane,Crown,Urban,Local,105,Sealed,0,126.2652498,Repton,126.2652498,,0,1,1900,,359,13151,100470,Copied
+48,9913,Perrys Road,BSC,Rural,Local,22,Sealed,0,1014.245187,Repton,1014.245187,5,5071.225936,1,1968,,198,9913,100267,Copied
+79,10237,Phillips Street,BSC,Urban,Local,68,Sealed,0,288.2421763,North Dorrigo,288.2421763,3.5,1008.847617,1,1973,,281,10237,100376,Copied
+368,9914,Pilot Street,BSC,Urban,Local,47,Sealed,0,694.3154932,Urunga,694.3154932,9.6,6665.428735,1,1987,,199,9914,100268,Copied
+215,9915,Pilot Street East,BSC,Urban,Local,97,Sealed,0,449.5613863,Urunga,449.5613863,9.9,4450.657724,1,1987,,200,9915,100269,Copied
+209,9917,Pine Creek Close,BSC,Urban,Local,112,Sealed,0,128.4725561,Repton,128.4725561,5.1,655.2100363,3,2009,,202,9917,100271,Copied
+257,9360,Plantation Road,Crown,Rural,Local,79,Unsealed,0,1844.936443,Brierfield,1844.936443,,0,,1900,,420,9360,100011,Copied
+2556,9919,Prince Street,BSC,Urban,Local,45,Sealed,0,467.4270782,Bellingen,467.4270782,8.4,3926.387457,1,1987,,397,9919,100515,Copied
+379,9921,Pulsford Place,BSC,Urban,Local,109,Sealed,0,773.721593,Fernmount,773.721593,5.6,4332.840921,2,2009,,204,9921,100274,Copied
+382,9922,Queen Street,BSC,Urban,Local,51,Sealed,0,699.1319243,Raleigh,699.1319243,6,4194.791546,1,2009,,205,9922,100275,Copied
+349,9926,Raleigh Street,BSC,Urban,Local,105,Sealed,0,198.5792745,Urunga,198.5792745,7.9,1568.776269,2,2009,,209,9926,100279,Copied
+124,9927,Ranger Street,BSC,Urban,Local,80,Sealed,0,88.49254548,Urunga,88.49254548,11.8,1044.212037,2,2009,,210,9927,100280,Copied
+97,10238,Rawson Street,BSC,Urban,Local,68,Sealed,0,280.2730499,North Dorrigo,280.2730499,3.5,980.9556747,3,2009,,282,10238,100377,Copied
+310,9928,Rawson Street,BSC,Urban,Local,78,Sealed,0,400.4543832,Bellingen,400.4543832,4.75,1902.15832,1,2009,,211,9928,100281,Copied
+127,11055,Red Cedar Place,BSC,Urban,Local,116,Sealed,0,153.2744701,Bellingen,153.2744701,4.6,705.0625625,3,2009,,345,11055,100451,Copied
+65,9101,Red Gum Crescent,BSC,Urban,Local,116,Sealed,0,180.2640174,Bellingen,180.2640174,5,901.320087,2,1996,,6,9101,100008,Copied
+155,10563,Red Ledge Lane,BSC,Urban,Local,110,Unsealed,0,71.15752034,Bellingen,71.15752034,3,213.472561,4,2016,,307,10563,100407,Copied
+445,10316,Reids Creek Road,BSC,Rural,Local,117,Unsealed,0,1583.02147,Kalang,1583.02147,3,4749.064411,3,2001,,496,10316,100380,Copied
+256,9930,Reids Road,BSC,Rural,Local,121,Sealed,0,596.2130971,Hydes Creek,596.2130971,4,2384.852389,1,2016,,474,9930,100284,Copied
+30,9933,Ridgewood Drive,BSC,Urban,Local,121,Sealed,0,549.6759711,Raleigh,549.6759711,5,2748.379855,2,1968,,215,9933,100286,Copied
+278,9936,River Place,BSC,Urban,Local,114,Sealed,0,77.07586184,Bellingen,77.07586184,9,693.6827565,3,2009,,218,9936,100291,Copied
+62,9938,River Street,BSC,Urban,Local,27,Sealed,0,506.5809603,Mylestom,506.5809603,7.8,3951.331491,3,1987,,219,9938,100292,Copied
+348,9940,River Street,BSC,Urban,Local,108,Sealed,0,130.793552,Urunga,130.793552,7.9,1033.269061,1,2009,,221,9940,100294,Copied
+375,9941,Riverside Drive,BSC,Urban,Local,109,Sealed,0,509.5154558,Urunga,509.5154558,5,2547.577279,3,2009,,222,9941,100295,Copied
+14,7853,Riverwood Place,BSC,Urban,Local,118,Sealed,0,97.8433491,Urunga,97.8433491,6,587.0600946,1,1996,,2,7853,100003,Copied
+321,9942,Robert Street,BSC,Urban,Local,98,Sealed,0,556.9687313,Bellingen,556.9687313,7.1,3954.477992,2,2009,,223,9942,100296,Copied
+118,10424,Robert Street Lane,BSC,Urban,Local,108,Sealed,0,149.0577887,Bellingen,149.0577887,4,596.2311547,1,2009,,287,10424,100384,Copied
+433,9944,Rodgers Road East,BSC,Rural,Local,96,Unsealed,0,2006.68056,Tallowwood Ridge,2006.68056,3.6,7224.050015,3,2008,,478,9944,100298,Copied
+17,9945,Rodgers Road West,BSC,Rural,Local,104,Unsealed,0,2038.613361,Tallowwood Ridge,2038.613361,3.6,7339.0081,2,2008,,479,9945,100299,Copied
+297,9950,Sara Place,BSC,Urban,Local,118,Sealed,0,72.78930454,Bellingen,72.78930454,4.7,342.1097314,2,2009,,228,9950,100304,Copied
+428,11041,Schmitts Lane,BSC,Rural,Local,126,unsealed,0,258.824366,Dorrigo Mountain,258.824366,3,776.4730981,2,2016,,343,11041,100449,Copied
+447,10460,School Hill Road,BSC,Rural,Local,76,Sealed,0,500.1258119,Urunga,500.1258119,6.5,3250.817777,2,1900,Width measured from Map,294,10460,100394,Copied
+,15790,Sheridan Close,Private,Rural,Local,N/A,Sealed,0,331.4,Fernmount,331.4,,0,,#N/A,,386,15790,100504,Copied
+238,8905,Short Cut Trail,Crown,Rural,Local,N/A,Unsealed,0,1464.836116,Kalang,1464.836116,,0,,1900,,5,8905,100006,Copied
+366,10207,Short Street,BSC,Urban,Local,114,Sealed,0,92.40342141,Urunga,92.40342141,4,369.6136856,3,1900,,277,10207,100372,Copied
+117,10252,Short Street Lane,BSC,Urban,Local,62,Sealed,0,232.6449533,Bellingen,232.6449533,3,697.93486,3,1976,,283,10252,100378,Copied
+288,9540,Sky Place,BSC,Urban,Local,112,Sealed,0,219.5475842,Bellingen,219.5475842,7,1536.833089,2,2009,,421,9540,100017,Copied
+448,10010,Slarkes Road,BSC,Rural,Local,98,Unsealed,0,1823.266918,Bellingen,1823.266918,3.6,6563.760903,2,2008,,491,10010,100363,Copied
+423,11058,Smiths Lane,BSC,Rural,Local,76,Unsealed,0,1281.610589,Bielsdown Hills,1281.610589,3,3844.831766,2,2008,,346,11058,100452,Copied
+122,9957,Smiths Road,BSC,Rural,Local,108,Sealed,0,259.8242886,Repton,259.8242886,4.2,1091.262012,2,2009,,231,9957,100310,Copied
+400,9958,Snows Road,BSC,Rural,Local,73,Sealed,0,2909.232744,North Dorrigo,2909.232744,4,11636.93097,2,1968,,483,9958,100311,Copied
+2565,9960,South Street,BSC,Urban,Local,112,Sealed,0,248.4002852,Urunga,248.4002852,7.8,1937.522224,1,2009,,233,9960,100313,Copied
+28,9961,South Street East,BSC,Urban,Local,88,Sealed,0,221.603221,Urunga,221.603221,7.8,1728.505124,1,2009,,234,9961,100314,Copied
+372,9967,Sunset Place,BSC,Urban,Local,118,Sealed,0,85.73301385,Urunga,85.73301385,7.4,634.4243025,2,1998,,238,9967,100321,Copied
+284,9539,Sunset Ridge Drive,BSC,Urban,Local,90,Sealed,0,708.1665334,Bellingen,708.1665334,5,3540.832667,2,1973,,13,9539,100016,Copied
+342,11061,Susan Street,BSC,Urban,Local,118,Sealed,0,62.86720595,Urunga,62.86720595,8.5,534.3712505,1,2009,,348,11061,100455,Copied
+129,9968,Tall Gums Drive,BSC,Urban,Local,123,Sealed,0,177.5308724,Raleigh,177.5308724,3,532.5926172,3,1968,,239,9968,100322,Copied
+128,9969,Tallowood Street,BSC,Urban,Local,109,Sealed,0,549.7847322,Dorrigo,549.7847322,3,1649.354197,2,2009,,240,9969,100323,Copied
+88,9970,Tamarind Avenue,BSC,Urban,Local,112,Sealed,0,464.8363854,Dorrigo,464.8363854,3,1394.509156,2,2009,,241,9970,100324,Copied
+272,9971,Tamarind Drive,BSC,Urban,Local,105,Sealed,0,324.576417,Bellingen,324.576417,12.6,4089.662855,2,2009,,242,9971,100325,Copied
+329,9972,Tambar Place,BSC,Urban,Local,114,Sealed,0,83.73844084,Urunga,83.73844084,7.8,653.1598386,3,2009,,243,9972,100326,Copied
+,16080,Taylors Close,BSC,Urban,Local,,Sealed,0,250.3,Bellingen,250.3,6.1,1526.83,1,#N/A,Width measured from map,388,16080,100506,Copied
+337,9973,The Grove,BSC,Urban,Local,116,Sealed,0,321.6827947,Urunga,321.6827947,5.3,1704.918812,2,2009,,244,9973,100327,Copied
+411,10427,Thompsons Road,BSC,Rural,Local,117,Unsealed,0,648.3923823,Dorrigo,648.3923823,4,2593.569529,3,2012,,498,10427,100386,Copied
+303,9974,Tibouchina Close,BSC,Urban,Local,112,Sealed,0,287.4318096,Bellingen,287.4318096,6.4,1839.563582,2,2009,,245,9974,100328,Copied
+203,9975,Tree Fern Close,BSC,Urban,Local,108,Sealed,0,329.8931525,Repton,329.8931525,7.8,2573.16659,3,2009,,246,9975,100329,Copied
+43,9976,Tuckers Rock Road,BSC,Rural,Local,90,Sealed,0,1420.67863,Repton,1420.67863,4,5682.71452,2,2009,,247,9976,100330,Copied
+376,9979,Tyson Street,BSC,Urban,Local,114,Sealed,0,69.43489492,Fernmount,69.43489492,7.8,541.5921804,2,2009,,249,9979,100333,Copied
+362,10329,Unnamed Lane (Fitzroy Lane),BSC,Urban,Local,108,Sealed,0,202.8800012,Urunga,202.8800012,3,608.6400035,1,1987,,497,10329,100382,Copied
+69,10589,Unnamed Lane A03,BSC,Urban,Local,98,Sealed,0,513.8367505,Dorrigo,513.8367505,4.7,2415.032727,4,1976,,320,10589,100420,Copied
+328,10578,Unnamed Lane A04,BSC,Urban,Local,101,Sealed,0,157.2408294,Dorrigo,157.2408294,3.5,550.342903,3,1987,,313,10578,100413,Copied
+142,10590,Unnamed Lane A05,BSC,Urban,Local,101,Sealed,0,394.2257159,Dorrigo,394.2257159,3.5,1379.790005,4,1987,,321,10590,100421,Copied
+109,12632,Unnamed Lane A06,BSC,Urban,Local,118,Sealed,0,80.35848539,Dorrigo,80.35848539,3.3,265.1830018,2,2009,,354,12632,100464,Copied
+181,10601,Unnamed Lane A07,BSC,Urban,Local,108,Sealed,0,141.3380249,Dorrigo,141.3380249,3,424.0140746,3,1976,,324,10601,100424,Copied
+180,10605,Unnamed Lane A08,BSC,Urban,Local,63,Sealed,0,110.8505194,Dorrigo,110.8505194,4,443.4020776,4,1987,,328,10605,100428,Copied
+133,10604,Unnamed Lane A09,BSC,Urban,Local,110,Unsealed,0,36.50800252,Dorrigo,36.50800252,3,109.5240076,3,2004,,327,10604,100427,Copied
+104,10602,Unnamed Lane A10,BSC,Urban,Local,108,Sealed,0,165.4207223,Dorrigo,165.4207223,3.5,578.972528,3,1976,,325,10602,100425,Copied
+131,10603,Unnamed Lane A11,BSC,Urban,Local,107,Sealed,0,88.38245821,Dorrigo,88.38245821,3.4,300.5003579,4,1976,,326,10603,100426,Copied
+139,10580,Unnamed Lane A13,BSC,Urban,Local,90,Sealed,0,609.1890828,Dorrigo,609.1890828,3.5,2132.16179,4,1987,,315,10580,100415,Copied
+67,10579,Unnamed Lane A14,BSC,Urban,Local,105,Sealed,0,384.1941944,Dorrigo,384.1941944,3.5,1344.67968,3,1987,,314,10579,100414,Copied
+135,10581,Unnamed Lane A15,BSC,Urban,Local,101,Sealed,0,222.2237274,Dorrigo,222.2237274,4.3,955.5620276,3,1987,,316,10581,100416,Copied
+185,10582,Unnamed Lane A16,BSC,Urban,Local,112,Sealed,0,247.2981046,Dorrigo,247.2981046,4.5,1112.841471,3,1987,,317,10582,100417,Copied
+184,10583,Unnamed Lane A17,BSC,Urban,Local,112,Sealed,0,247.4007918,Dorrigo,247.4007918,4.5,1113.303563,3,1987,,318,10583,100418,Copied
+196,10564,Unnamed Lane B19,BSC,Urban,Local,101,Sealed,0,159.274664,Bellingen,159.274664,3.5,557.461324,4,1976,,308,10564,100408,Copied
+114,10253,Unnamed Lane B20,BSC,Urban,Local,118,Sealed,0,53.94471338,Bellingen,53.94471338,4,215.7788535,2,#N/A,Width measured from map,284,10253,100379,Copied
+318,10550,Unnamed Lane B21,BSC,Urban,Local,107,Sealed,0,71.24968185,Bellingen,71.24968185,3,213.7490456,5,2004,,302,10550,100402,Copied
+115,10572,Unnamed Lane B23,BSC,Urban,Local,88,Sealed,0,187.8774599,Bellingen,187.8774599,4,751.5098398,4,1987,,311,10572,100411,Copied
+151,10559,Unnamed Lane B24,BSC,Urban,Local,108,Unsealed,0,142.9570796,Bellingen,142.9570796,3,428.8712387,5,2008,,305,10559,100405,Copied
+149,10553,Unnamed Lane B25,BSC,Urban,Local,101,Unsealed,0,187.5975882,Bellingen,187.5975882,3.25,609.6921617,5,#N/A,Width measured from map,303,10553,100403,Copied
+313,10645,Unnamed Lane B26,BSC,Urban,Local,101,Sealed,0,159.8224452,Bellingen,159.8224452,3,479.4673356,4,1976,,503,10645,100433,Copied
+91,10549,Unnamed Lane B27,BSC,Urban,Local,105,Sealed,0,199.2717105,Bellingen,199.2717105,3.5,697.4509868,4,1976,,301,10549,100401,Copied
+289,10561,Unnamed Lane B28,BSC,Urban,Local,112,Sealed,0,125.5316613,Bellingen,125.5316613,3,376.5949838,4,1976,,306,10561,100406,Copied
+475,15519,Unnamed Lane B43,BSC,Urban,Local,114,Sealed,0,42.55924972,Bellingen,42.55924972,3,127.6777492,4,2004,,384,15519,100502,Copied
+351,10532,Unnamed Lane C35,BSC,Urban,Local,107,Sealed,0,86.16665136,Urunga,86.16665136,2.6,224.0332935,4,1987,,297,10532,100397,Copied
+364,10541,Unnamed Lane C36,BSC,Urban,Local,114,Sealed,0,25.79123097,Urunga,25.79123097,3.5,90.26930841,1,1998,,299,10541,100399,Copied
+363,10542,Unnamed Lane C37,BSC,Urban,Local,108,Sealed,0,240.5729023,Urunga,240.5729023,4,962.2916091,3,1998,,300,10542,100400,Copied
+406,10533,Unnamed Lane C38,BSC,Urban,Local,107,Sealed,0,73.59346126,Urunga,73.59346126,3,220.7803838,5,1976,,298,10533,100398,Copied
+360,10517,Unnamed Lane C39,BSC,Urban,Local,122,Sealed,0,85.8391411,Urunga,85.8391411,5,429.1957055,1,2009,,295,10517,100395,Copied
+354,9709,Unnamed Lane C40,BSC,Urban,Local,105,Sealed,0,150.2662486,Urunga,150.2662486,3.5,525.9318702,3,1998,,34,9709,100040,Copied
+47,10610,Unnamed Lane C43,BSC,Urban,Local,99,Sealed,0,81.93741665,Repton,81.93741665,2.6,213.0372833,5,1976,,330,10610,100430,Copied
+202,10608,Unnamed Lane C44,BSC,Urban,Local,110,Unsealed,0,57.04127101,Repton,57.04127101,2.5,142.6031775,5,#N/A,Width measured from map,329,10608,100429,Copied
+214,10531,Unnamed Lane C45,BSC,Urban,Local,118,Sealed,0,47.16712564,Urunga,47.16712564,6.6,311.3030292,2,2009,,296,10531,100396,Copied
+377,10634,Unnamed Lane C46,BSC,Urban,Local,110,Sealed,0,72.43188635,Fernmount,72.43188635,3,217.295659,2,#N/A,Width measured from map,501,10634,100431,Copied
+,15775,Unnamed Lane C47,BSC,Rural,Local,,Sealed,0,62.1,Raleigh,62.1,4,248.4,3,#N/A,Width measured from map,385,15775,100503,Copied
+,15482,Unnamed Road (Drovers Lane),BSC,Rural,Local,,Unsealed,0,245.6,Raleigh,245.6,6,1473.6,2,#N/A,,413,15482,100257,Copied
+221,10687,Unnamed Road (Wills Road),BSC,Rural,Local,117,Unsealed,0,948.9700874,Darkwood,948.9700874,5.5,5219.335481,4,#N/A,,504,10687,100435,Copied
+182,14878,Unnamed Road A01,BSC,Urban,Local,107,Sealed,0,81.05042383,Dorrigo,81.05042383,6,486.302543,5,1976,,378,14878,100490,Copied
+146,10745,Unnamed Road A18,BSC,Urban,Local,123,Sealed,0,104.7846074,North Dorrigo,104.7846074,3.3,345.7892044,1,2012,,332,10745,100436,Copied
+,15427,Unnamed Road A48,BSC,Rural,Local,,Unsealed,0,1014.3,Megan,1014.3,3,3042.9,3,#N/A,Width measured from map,516,15427,100501,Copied
+16,10571,Unnamed Road B22,BSC,Urban,Local,88,Sealed,0,244.00568,Bellingen,244.00568,3.8,927.2215841,1,1998,,310,10571,100410,Copied
+395,14883,Unnamed Road B29,BSC,Rural,Local,116,Sealed,0,245.9695644,Gleniffer,245.9695644,2.3,565.7299982,4,1987,,531,14883,100491,Copied
+407,11418,Unnamed Road B30,BSC,Rural,Local,122,Unsealed,0,93.90039957,Gleniffer,93.90039957,2.5,234.7509989,2,1987,,530,11418,100458,Copied
+396,14884,Unnamed Road B31,BSC,Rural,Local,99,Sealed,0,90.31235509,Bellingen,90.31235509,3.5,316.0932428,4,1976,,379,14884,100492,Copied
+216,9361,Unnamed Road C32,BSC,Rural,Local,114,Unsealed,0,92.37083093,Urunga,92.37083093,5,461.8541546,2,2012,,9,9361,100012,Copied
+212,14663,Unnamed Road C33,BSC,Urban,Local,112,Unsealed,0,178.7616489,Urunga,178.7616489,3.3,589.9134413,3,2008,,376,14663,100488,Copied
+334,10591,Unnamed Road C34,BSC,Urban,Local,122,Sealed,0,22.40803287,Urunga,22.40803287,7,156.8562301,1,2009,,322,10591,100422,Copied
+,15385,Urunga Heights Drive,BSC,Urban,Local,,Sealed,0,224.5,Urunga,224.5,13,2918.5,1,#N/A,Width measured from map,382,15385,100499,Copied
+279,9980,Vale Street,BSC,Urban,Local,118,Sealed,0,94.56440292,Bellingen,94.56440292,7.2,680.863701,1,2009,,250,9980,100334,Copied
+302,9983,Valley View Drive,BSC,Urban,Local,116,Sealed,0,158.5335502,Bellingen,158.5335502,9.6,1521.922082,2,2009,,251,9983,100336,Copied
+346,9984,Vernon Crescent,BSC,Urban,Local,116,Sealed,0,208.5111576,Urunga,208.5111576,6.8,1417.875872,1,2009,,252,9984,100337,Copied
+347,9985,Vernon Place,BSC,Urban,Local,116,Sealed,0,119.7895325,Urunga,119.7895325,4,479.1581301,1,2009,,253,9985,100338,Copied
+384,9986,Victor Street,BSC,Urban,Local,68,Sealed,0,468.8399086,Raleigh,468.8399086,3,1406.519726,5,2009,,254,9986,100339,Copied
+143,8869,Walnut Close,BSC,Urban,Local,118,Sealed,0,57.4012569,Dorrigo,57.4012569,5,287.0062845,2,1987,,4,8869,100005,Copied
+66,8845,Waratah Lane,Crown,Urban,Local,N/A,Unsealed,0,384.2188835,Dorrigo,384.2188835,3,1152.656651,,2004,,3,8845,100004,Copied
+437,9990,Wards Road,BSC,Rural,Local,102,Unsealed,0,1117.212661,Megan,1117.212661,5,5586.063307,2,1968,,488,9990,100343,Copied
+300,9993,Wattle Close,BSC,Urban,Local,118,Sealed,0,71.58464318,Bellingen,71.58464318,6,429.5078591,2,2009,,260,9993,100348,Copied
+164,9994,Wedgewood Avenue,BSC,Urban,Local,82,Sealed,0,183.1169697,Mylestom,183.1169697,10.2,1867.793091,1,2009,,261,9994,100349,Copied
+170,10040,Wenonah Close,BSC,Rural,Local,120,Sealed,0,231.1522389,Valla,231.1522389,3,693.4567167,1,1974,,495,10040,100367,Copied
+323,9995,West Street,BSC,Urban,Local,101,Sealed,0,164.6265345,Bellingen,164.6265345,6,987.7592073,2,2009,,262,9995,100350,Copied
+26,10556,William Street Lane,BSC,Urban,Local,101,Sealed,0,354.7095664,Bellingen,354.7095664,4,1418.838266,5,2009,,304,10556,100404,Copied
+233,8907,Wills Road,BSC,Rural,Local,117,Unsealed,0,545.6603303,Thora,545.6603303,3,1636.980991,3,2016,,419,8907,100007,Copied
+61,10000,Winter Avenue,BSC,Urban,Local,108,Sealed,0,169.8574897,Mylestom,169.8574897,7.8,1324.88842,1,1992,,266,10000,100355,Copied
+168,10001,Wiri Place,BSC,Rural,Local,123,Sealed,0,195.1427066,Urunga,195.1427066,6.2,1209.884781,2,1985,,267,10001,100356,Copied
+373,10002,Wollumbin Drive,BSC,Rural,Local,112,Sealed,0,366.4204671,Urunga,366.4204671,7,2564.94327,2,1996,,268,10002,100357,Copied
+322,10003,Woodbury Lane,BSC,Urban,Local,82,Sealed,0,216.0668699,Bellingen,216.0668699,3,648.2006097,5,1981,,269,10003,100358,Copied
+424,10004,Woodlands Road,BSC,Rural,Local,117,Unsealed,0,1735.337462,Bielsdown Hills,1735.337462,3,5206.012387,2,2016,,490,10004,100359,Copied
+160,10005,Woodward Street North,BSC,Urban,Local,118,Sealed,0,99.82127803,Repton,99.82127803,6,598.9276682,2,1985,,270,10005,100360,Copied
+92,10006,Woodward Street South,BSC,Urban,Local,108,Sealed,0,202.672564,Repton,202.672564,4.2,851.224769,1,1974,,271,10006,100361,Copied

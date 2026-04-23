@@ -2,7 +2,8 @@ import os
 
 import geopandas as gpd
 import pandas as pd
-from shapely.ops import substring
+from shapely.ops import substring, linemerge
+from shapely.geometry import MultiLineString
 
 
 def read_shapefile(path):
@@ -34,14 +35,28 @@ def merge_data(gdf, df):
     return gpd.GeoDataFrame(merged, geometry='geometry', crs=gdf.crs)
 
 
+def to_linestring(geom):
+    if isinstance(geom, MultiLineString):
+        merged = linemerge(geom)
+        return merged
+    return geom
+
+
 def extract_chainage_segments(merged_gdf):
     rows = []
+    skipped = 0
     for _, row in merged_gdf.iterrows():
-        line = row.geometry
+        line = to_linestring(row.geometry)
         start = row['start']
         end = row['end']
 
         if pd.isna(start) or pd.isna(end):
+            skipped += 1
+            continue
+
+        if isinstance(line, MultiLineString):
+            print(f"  Warning: OBJECTID {row.get('OBJECTID', '?')} has disconnected line parts — skipping")
+            skipped += 1
             continue
 
         line_length = line.length
@@ -49,12 +64,16 @@ def extract_chainage_segments(merged_gdf):
         end = max(0.0, min(float(end), line_length))
 
         if start >= end:
+            skipped += 1
             continue
 
         segment = substring(line, start, end)
         data = row.drop('geometry').to_dict()
         data['geometry'] = segment
         rows.append(data)
+
+    if skipped:
+        print(f"  {skipped} rows skipped (disconnected geometry, invalid start/end, or NaN values)")
 
     if not rows:
         raise ValueError("No valid chainage segments could be created")

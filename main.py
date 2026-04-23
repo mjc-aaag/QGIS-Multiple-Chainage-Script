@@ -1,4 +1,3 @@
-import argparse
 import os
 
 import geopandas as gpd
@@ -46,7 +45,6 @@ def extract_chainage_segments(merged_gdf):
             continue
 
         line_length = line.length
-        # clamp to line bounds
         start = max(0.0, min(float(start), line_length))
         end = max(0.0, min(float(end), line_length))
 
@@ -72,22 +70,15 @@ def save_output(gdf, output_folder):
 
 
 def main():
-    parser = argparse.ArgumentParser(
-        description='Generate chainage segments by merging a CSV with a shapefile on OBJECTID'
-    )
-    parser.add_argument('-s', '--shapefile', required=True,
-                        help='Path to input shapefile (.shp) or GeoPackage (.gpkg)')
-    parser.add_argument('-c', '--csv', required=True,
-                        help='Path to CSV file containing OBJECTID, start, and end columns')
-    parser.add_argument('-o', '--output', required=True,
-                        help='Path to output folder where the result shapefile will be saved')
-    args = parser.parse_args()
+    shapefile_path = input("Enter the path to the shapefile or GeoPackage (.shp / .gpkg): ").strip()
+    csv_path = input("Enter the path to the CSV file: ").strip()
+    output_folder = input("Enter the output folder path: ").strip()
 
-    print("Reading shapefile...")
-    gdf = read_shapefile(args.shapefile)
+    print("\nReading shapefile...")
+    gdf = read_shapefile(shapefile_path)
 
     print("Reading CSV...")
-    df = read_csv(args.csv)
+    df = read_csv(csv_path)
 
     print("Merging on OBJECTID...")
     merged = merge_data(gdf, df)
@@ -97,7 +88,7 @@ def main():
     segments = extract_chainage_segments(merged)
     print(f"  {len(segments)} segments created")
 
-    save_output(segments, args.output)
+    save_output(segments, output_folder)
 
 
 if __name__ == '__main__':
